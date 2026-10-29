@@ -84,7 +84,7 @@ L'épidémie est liée aux cacahuètes KRAZY Kraunchy Nutz.
 | Our Little Family | Notre Petite Famille | Bulletin de Meredith |
 | trash bag / pizza box / rusty barrel | sac poubelle / carton à pizza / baril rouillé | Conteneurs fouillables |
 | Rummaging... | Fouille... | |
-| THEY BUY / THEY OFFER | ACHAT / VENTE | Formulation neutre, parce que le texte est le même pour tous les marchands |
+| YOU SELL / OFFERED TO YOU (v1.2) | TU VENDS / ON TE PROPOSE | Point de vue du joueur, comme l'anglais depuis la 1.2 |
 | (premium floors) gate / security gate | la grille (de sécurité) | |
 | building management | la gérance | |
 | fire exit / fire escape door | issue de secours | |

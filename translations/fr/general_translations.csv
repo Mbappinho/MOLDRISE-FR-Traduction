@@ -54,7 +54,7 @@ Monte, monte, monte !"
 DEATH_VACCINE2,... pour le bien commun.
 ENDING_HALLUCINATION_1,Te voilà.
 ENDING_HALLUCINATION_2,J'ai été si patient.
-ENDING_HALLUCINATION_3,"Le vent est meilleur, ici en haut."
+ENDING_HALLUCINATION_3,"Le vent est plus doux, ici en haut."
 ENDING_HALLUCINATION_4,C'est ça qui compte.
 ENDING_HALLUCINATION_5,Tu sens l'air bouger ?
 ENDING_HALLUCINATION_6,"Bien. Maintenant, le plus dur, c'est pour moi."
@@ -82,7 +82,7 @@ FUNGAL_VOICE_27,Laisse-toi guider par ma voix.
 FUNGAL_VOICE_28,Tout va bien.
 FUNGAL_VOICE_29,Reste avec moi.
 FUNGAL_VOICE_3,Suis ma voix.
-FUNGAL_VOICE_30,Presque arrivé.
+FUNGAL_VOICE_30,Tu y es presque.
 FUNGAL_VOICE_31,Je t'attends là-haut.
 FUNGAL_VOICE_32,Viens là où je suis.
 FUNGAL_VOICE_33,Ne te retourne pas.
@@ -337,7 +337,7 @@ ITEM_JUNK_AIR_FRESHENER_DEAD_DESCR,« Cherry Punch ». Il a perdu. L'immeuble 
 ITEM_JUNK_AIR_FRESHENER_DEAD_NAME,Désodorisant épuisé
 ITEM_JUNK_BIRTHDAY_CARD_DESCR,_get_birthday_card_text
 ITEM_JUNK_BIRTHDAY_CARD_NAME,Carte d'anniversaire
-ITEM_JUNK_BIRTHDAY_CARD_TEXT,"« Joyeux anniversaire Chaya ! T'es géniale ! %s, Dieter » ... des niaiseries romantiques."
+ITEM_JUNK_BIRTHDAY_CARD_TEXT,"« Joyeux anniversaire, Chaya ! T'es géniale ! %s, Dieter » ... des niaiseries romantiques."
 ITEM_JUNK_EMPTY_GLASS_DESCR,"C'est celui de la Vieille Dame, elle voudra peut-être le récupérer."
 ITEM_JUNK_EMPTY_GLASS_NAME,Un verre de lait vide
 ITEM_JUNK_FLYER_DESCR,La personne qui a écrit ça t'aime énormément. C'est bien là le problème.
@@ -654,7 +654,7 @@ TUTORIALS_FLASHLIGHT_TITLE,Lampe torche
 TUTORIALS_IDEAS_EXTRA,Les Idées restent pour toujours.
 TUTORIALS_IDEAS_TEXT_AFTER_HINT,pour la voir.
 TUTORIALS_IDEAS_TITLE,Tu as eu une Idée !
-TUTORIALS_MARKED_RESPONSE_TEXT,Ceci marque les réponses que tu as déjà données.
+TUTORIALS_MARKED_RESPONSE_TEXT,Ce repère signale les réponses que tu as déjà données.
 TUTORIALS_MARKED_RESPONSE_TITLE,Déjà-vu
 ZONE_NAME_MIDDLE,Les étages intermédiaires
 ZONE_NAME_PREMIUM,Les étages de luxe

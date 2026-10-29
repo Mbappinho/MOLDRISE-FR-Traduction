@@ -11,7 +11,10 @@ import review  # noqa: E402  (reuses SYSTEM prompt, model fallback and chunked r
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CTX = 40
 
+only = [a for a in sys.argv[1:] if not a.startswith("--")]
 for p in sorted((ROOT / "work/tr_steam").glob("*.json")):
+    if only and p.stem not in only:
+        continue
     data = json.loads(p.read_text("utf-8"))
     keys = list(data)
     targets = [k for k in keys if data[k]["src"] in ("new", "updated") and data[k]["en"]]
