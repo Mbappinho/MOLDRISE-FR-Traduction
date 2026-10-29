@@ -1,0 +1,147 @@
+keys,fr
+D_MEDIATOR_START_DIALOG_1,"Je suis Meredith, et c'est moi qui m'occupe de tout, ici. Il faut bien que quelqu'un s'en charge.
+Du 1er au 28e étage, c'est nous. [i]Notre Petite Famille[/i]. Vous avez dû voir la lettre."
+D_MEDIATOR_START_DIALOG_10,"Mais ici, on ne se plaint pas. Ce n'est pas notre genre.
+Puisque vous êtes là, et que vous avez visiblement les jambes pour ça... il faut que toutes ces lettres soient parties ce soir."
+D_MEDIATOR_START_DIALOG_11,"Le toit ? Oh, vous ne pouvez pas monter là-haut, mon cher, c'est fermé à clé.
+Et c'est bien normal. Des gens y montaient, à toute heure, et j'ai dit : c'est l'accident assuré.
+Je l'ai mis dans la lettre, et comme par enchantement."
+D_MEDIATOR_START_DIALOG_12,"Oui. C'est formidable, non ? Une communauté qui travaille main dans la main !"
+D_MEDIATOR_START_DIALOG_13,"Notre Petite Famille, numéro quarante et un. Il faut les déposer dans les boîtes aux lettres du hall d'entrée."
+D_MEDIATOR_START_DIALOG_14,"J'ai une [quest]clé d'ascenseur[/quest] de rechange, vous pouvez la prendre. Je ne vais pas laisser le numéro quarante et un traîner jusqu'à demain parce que vous prenez l'escalier comme un animal, si je peux l'éviter.
+Bon, vous m'écoutez toujours ?"
+D_MEDIATOR_START_DIALOG_15,"Pourquoi vous ? Et pourquoi croyez-vous que vous êtes planté là, mon cher ?
+Franchement, qu'est-ce que c'est que toutes ces questions ?"
+D_MEDIATOR_START_DIALOG_16,"Mon facteur ? Oh, non, non. Un facteur, on le paie en argent.
+Ici, c'est différent. Ce à quoi vous pourriez prendre part, ça n'a pas de prix.
+Et puis, vous descendez de toute façon. Pour les machins aux cacahuètes.
+Donc vous passerez devant les boîtes. Ce n'est pas un travail si vous passez devant, n'est-ce pas. C'est à peine un service."
+D_MEDIATOR_START_DIALOG_17,"Non, vous avez tout à fait raison. Vous avez assez à faire. Regardez-vous.
+Je vais le faire moi-même. Je me débrouillerai. Comme toujours. Non, laissez, je m'en occupe."
+D_MEDIATOR_START_DIALOG_18,[i]Gagner.[/i]
+D_MEDIATOR_START_DIALOG_19,"Il y aura une récompense. Une vraie. Je prends soin de ceux qui prennent soin de nous.
+Ne ramenez pas tout à ça, mon cher. Ce n'est pas très élégant."
+D_MEDIATOR_START_DIALOG_2,"Le Concierge, quel homme merveilleux... quand on reste sur son dos. Il ne lève pas le petit doigt tant qu'on ne... mais j'y suis arrivée. Vous verrez que j'y arrive toujours.
+Je mettrai un mot dans la prochaine lettre : il a bien mérité des éloges."
+D_MEDIATOR_START_DIALOG_20,"En remontant, auriez-vous l'amabilité de me rapporter un sachet de ces Kraunchy Nuts ?
+Je suis coupée de tout, ici. On fait sans. Moi, je fais toujours sans."
+D_MEDIATOR_START_DIALOG_21,"Je suis coupée de tout, ici. Alors, en remontant, auriez-vous l'amabilité de me rapporter un sachet de ces Kraunchy Nuts ? Un seul. Au distributeur du hall, juste à côté des boîtes aux lettres.
+On fait sans. Moi, je fais toujours sans."
+D_MEDIATOR_START_DIALOG_22,"Ah, vous voilà. Je l'avais dit, que vous reviendriez. Je l'avais dit.
+Vous avez mis les lettres dans les boîtes ? Toutes ?"
+D_MEDIATOR_START_DIALOG_23,"Bien. Bien.
+Vous voyez, c'est ce que je ne cesse de répéter. Ça n'a jamais été un problème de distribution. C'était un problème de volonté. Il fallait juste quelqu'un prêt à prendre les choses en main, et j'ai fini par. Bref. C'est fait. C'est ça, l'essentiel. C'est fait."
+D_MEDIATOR_START_DIALOG_24,Bon. Le plus important. Les machins aux cacahuètes du distributeur. Dites-moi que vous n'avez pas oublié les machins aux cacahuètes.
+D_MEDIATOR_START_DIALOG_25,"Oh, merveilleux. Oh, vous êtes un ange.
+Donnez-les-moi. Donnez."
+D_MEDIATOR_START_DIALOG_26,"[i]Vous avez oublié.[/i]
+Non. Non, ce n'est rien. C'est trois fois rien. C'est la seule chose que [b]moi[/b], j'ai demandée, mais c'est trois fois rien, et [i]vous[/i], vous l'avez oubliée.
+Ça fait très longtemps que je suis toute seule ici, mon cher. Vous n'y pensez pas. [i]Personne n'y pense[/i]."
+D_MEDIATOR_START_DIALOG_27,"[i]Dangereux.[/i]
+Mon cher. Ça sort d'un distributeur. Dans le hall. Ça fait des années qu'ils y sont.
+Je sais que vous avez eu une rude ascension, ça se voit, mais vous n'avez pas besoin d'inventer des histoires.
+Je ne vais pas manger quelque chose de dangereux, enfin.
+Je ne suis pas une enfant."
+D_MEDIATOR_START_DIALOG_28,"Donnez-les-moi.
+Franchement. Tout ce cinéma."
+D_MEDIATOR_START_DIALOG_29,"Vous. Vous les gardez ?
+C'est ça. Vous les gardez.
+Tout ça, tout ce cinéma sur le danger, et vous les vouliez juste pour vous.
+Non, gardez-les. Gardez-les, mon cher. J'espère qu'ils seront à la hauteur de vos attentes.
+Je demande une chose. Une seule."
+D_MEDIATOR_START_DIALOG_3,"Notre Petite Famille. Elle va dans chaque boîte de cet immeuble, de notre maison.
+Vous ne l'avez pas vue ? Eh bien. Vous étiez occupé, j'imagine, comme [i]tout le monde est toujours occupé, de nos jours.[/i]"
+D_MEDIATOR_START_DIALOG_30,"Tenez. Le distributeur prend bien un dollar, il me semble.
+N'allez pas dire que je ne suis pas généreuse. Peu de gens en feraient autant."
+D_MEDIATOR_START_DIALOG_31,"Une récompense.
+Après tout ce que je viens de. Non. Non, je ne vais pas me fâcher. Je vais être honnête avec vous, parce que c'est ce qu'on fait, en famille.
+Je trouve ça très matérialiste. Si, si. Je suis désolée, mais c'est ce que je pense.
+Il ne s'agit pas d'argent. Il s'agit de bâtir une communauté dans un immeuble qui tomberait en ruine sans elle. Vous ne le voyez donc pas ?"
+D_MEDIATOR_START_DIALOG_32,"Il y aura une vraie récompense. Demandez à n'importe qui ici depuis assez longtemps : j'ai toujours pris soin de ceux qui prennent soin de nous.
+Ne ramenez pas tout à ça, mon cher. Ce n'est pas très élégant."
+D_MEDIATOR_START_DIALOG_33,[i]Gagner.[/i]
+D_MEDIATOR_START_DIALOG_34,"Une arnaque. C'est. C'est ça, le mot. Pour une femme qui vous a donné une clé, et une famille, et qui n'a demandé qu'un sachet de cacahuètes en retour.
+On m'a traitée de bien des choses, ici, mon cher. Jamais de ça. Jamais par quelqu'un que je venais d'accueillir."
+D_MEDIATOR_START_DIALOG_35,"Non.
+Non, je ne crois pas que vous le pensiez. Je crois que vous allez regretter de m'avoir dit ça."
+D_MEDIATOR_START_DIALOG_36,"Une vraie récompense. Non mais écoutez-vous.
+C'est exactement ce que je veux dire. Voilà ce qui arrive quand les gens oublient la gratitude. Ils se mettent à exiger. Ils se mettent à croire que le monde leur doit une pièce pour la moindre petite chose qu'ils font.
+Je vous plains. Sincèrement. Je vous plains énormément."
+D_MEDIATOR_START_DIALOG_37,"Laissez tomber. Après tout ça. Et vous en restez là.
+Vous tournez le dos et vous filez.
+C'est bien ça, le problème, avec vous tous. Dès que ça ne tourne plus autour de vous, vous disparaissez. Eh bien. Allez-y, alors. Partez."
+D_MEDIATOR_START_DIALOG_38,"Alors, à votre place, je me trouverais un avocat. Si vous pouvez vous le permettre, bien entendu."
+D_MEDIATOR_START_DIALOG_39,"Ça fait quatre jours que je suis coincée sur la même chaîne de télé.
+[b]Quatre jours, mon cher.[/b] Je ne me plains pas. Vous l'aurez remarqué."
+D_MEDIATOR_START_DIALOG_4,"[b]Vous l'avez lue.[/b] Vous avez lu la lettre.
+Oh. Oh, vous ne pouvez pas imaginer comme c'est rare. Je les distribue, et c'est comme si je les jetais au fond d'un puits. Pas un mot en retour, pas un seul. Meredith, c'est moi. Mais pour le courrier des lecteurs, c'est Mme Grady.
+Non, Meredith, c'est charmant, vous pouvez m'appeler comme ça. Vous êtes un lecteur, vous."
+D_MEDIATOR_START_DIALOG_40,Une chaîne de téléachat sur les sacs à main. Toute la journée. Des sacs à main.
+D_MEDIATOR_START_DIALOG_41,"Ma télécommande. Elle a disparu !
+Elle n'est pas partie toute seule. Ça, j'en suis sûre !"
+D_MEDIATOR_START_DIALOG_42,Quatre. Jours.
+D_MEDIATOR_START_DIALOG_43,"Elle reste plantée là, en silence."
+D_MEDIATOR_START_DIALOG_44,L'ambiance est si lourde qu'on pourrait la couper au couteau.
+D_MEDIATOR_START_DIALOG_45,"Vous voudriez bien.
+Non, je n'allais rien dire. Je ne dis jamais rien."
+D_MEDIATOR_START_DIALOG_46,"Vous ouvrirez l'œil. Je le sais.
+Petite. Noire. Marquée [i]Soonee[/i]."
+D_MEDIATOR_START_DIALOG_47,Oh. Eh bien. Ce n'est pas ma télécommande... mais c'est une télécommande Soonee.
+D_MEDIATOR_START_DIALOG_48,Vous voilà. Je savais que vous reviendriez. Je le sais toujours.
+D_MEDIATOR_START_DIALOG_49,"Mais bien sûr. Bien sûr.
+Non, prenez votre temps, mon cher. Elle ne va pas bouger. Moi non plus.
+Petite. Noire. [i]Soonee[/i]. Un bout de scotch au dos."
+D_MEDIATOR_START_DIALOG_50,"La plupart des gens auraient hoché la tête, seraient partis, et je ne les aurais jamais revus.
+La plupart des gens, ici. [b]Pas vous.[/b]"
+D_MEDIATOR_START_DIALOG_52,"Bien, alors vous voudrez vous rendre utile, n'est-ce pas, quelqu'un comme vous. Évidemment."
+D_MEDIATOR_START_DIALOG_53,"Maintenant que je sais que vous êtes fiable et digne de confiance, il y a une chose pour laquelle nous avons besoin de votre aide. Vous m'avez l'air d'avoir le pied léger."
+D_MEDIATOR_START_DIALOG_54,"Oh. Bien sûr. Il y a toujours plus important. J'attendrai, comme toujours."
+D_MEDIATOR_START_DIALOG_55,Je vous attends ici. Merci.
+D_MEDIATOR_START_DIALOG_6,"Oh, Dieu merci ! Enfin ! J'ai entendu l'ascenseur, je me suis dit : voilà quelqu'un de sensé.
+L'ascenseur remarche ? Des jours qu'on n'avait plus rien, et voilà que... Je savais bien que le Concierge finirait par le réparer. Je l'ai assez relancé à ce sujet.
+Vous êtes monté par la grille, par le bon chemin. Je l'ai entendue claquer."
+D_MEDIATOR_START_DIALOG_9,"Oh, je sais [i]exactement ce que vous ressentez ![/i]
+J'ai eu un rhume vraiment, vraiment horrible l'hiver dernier. Clouée au lit pendant neuf jours, à attendre que mon heure vienne, et j'ai quand même sorti la lettre. Numéro trente-huit, c'est daté, vous pouvez vérifier.
+Pas une seule personne dans cet immeuble ne m'a apporté de soupe. J'en suis venue à douter que ce que je fais serve à quelque chose."
+D_MEDIATOR_START_OPT_10_1,Je suis sérieux. Ne les mangez pas.
+D_MEDIATOR_START_OPT_10_2,Non. [Refuser de les lui donner]
+D_MEDIATOR_START_OPT_11_1,Tant pis. Bon appétit.
+D_MEDIATOR_START_OPT_11_2,Non !
+D_MEDIATOR_START_OPT_12_1,Vous m'aviez promis une récompense.
+D_MEDIATOR_START_OPT_13_1,Qu'est-ce que j'y gagne ?
+D_MEDIATOR_START_OPT_14_1,C'est une arnaque !
+D_MEDIATOR_START_OPT_14_2,Vous n'êtes pas ma famille.
+D_MEDIATOR_START_OPT_14_3,Donnez-moi une vraie récompense.
+D_MEDIATOR_START_OPT_14_4,Laissez tomber.
+D_MEDIATOR_START_OPT_15_1,Il FAUT que je monte là-haut.
+D_MEDIATOR_START_OPT_16_1,Quoi ?
+D_MEDIATOR_START_OPT_16_2,Quelle chaîne ?
+D_MEDIATOR_START_OPT_16_3,Ah. Bon.
+D_MEDIATOR_START_OPT_17_1,"J'ai une télécommande, là !"
+D_MEDIATOR_START_OPT_17_2,[ne rien dire]
+D_MEDIATOR_START_OPT_17_3,Je pourrais la chercher.
+D_MEDIATOR_START_OPT_1_1,Qui êtes-vous ?
+D_MEDIATOR_START_OPT_1_2,"Le concierge ? Non, c'est moi qui ai réparé l'ascenseur."
+D_MEDIATOR_START_OPT_20_1,Je l'ai. Tenez.
+D_MEDIATOR_START_OPT_20_2,Je la cherche encore.
+D_MEDIATOR_START_OPT_20_3,"Oui, bien sûr. Je reviens."
+D_MEDIATOR_START_OPT_2_1,Quelle lettre ?
+D_MEDIATOR_START_OPT_2_2,Notre Petite Famille ! Ah ! Vous êtes Meredith !
+D_MEDIATOR_START_OPT_3_1,Je suis occupé à ne pas mourir. Mon pied est dans un état atroce !
+D_MEDIATOR_START_OPT_3_2,Je n'ai pas le temps ! Je dois aller sur le toit !
+D_MEDIATOR_START_OPT_4_1,Pardon ?
+D_MEDIATOR_START_OPT_5_1,Quoi ? La porte du toit est fermée à clé ?
+D_MEDIATOR_START_OPT_5_2,Je sais déjà qu'elle est fermée à clé !
+D_MEDIATOR_START_OPT_6_1,Je dois aller sur le toit ! Pas redescendre !
+D_MEDIATOR_START_OPT_6_2,Ça fait beaucoup de marches.
+D_MEDIATOR_START_OPT_6_3,Pourquoi moi ?
+D_MEDIATOR_START_OPT_6_4,Je ne suis pas votre facteur.
+D_MEDIATOR_START_OPT_6_5,Qu'est-ce que j'y gagne ?
+D_MEDIATOR_START_OPT_6_6,Laissez tomber ! [Jeter les lettres par terre]
+D_MEDIATOR_START_OPT_7_1,Des machins aux cacahuètes ?
+D_MEDIATOR_START_OPT_8_1,Toutes.
+D_MEDIATOR_START_OPT_8_2,Toutes. [Mentir]
+D_MEDIATOR_START_OPT_8_3,"Non, je ne l'ai pas encore fait."
+D_MEDIATOR_START_OPT_9_1,"Oui, je les ai sur moi."
+D_MEDIATOR_START_OPT_9_2,Bon sang. J'ai oublié.
+D_MEDIATOR_START_OPT_9_3,Vous ne pouvez pas manger ça. C'est dangereux.

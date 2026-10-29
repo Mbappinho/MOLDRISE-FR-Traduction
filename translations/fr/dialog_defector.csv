@@ -1,0 +1,66 @@
+keys,fr
+D_DEFECTOR_START_DIALOG_1,T'aider à quoi ?
+D_DEFECTOR_START_DIALOG_10,"Je suis pas médecin. Il paraît qu'il y a un médecin quelque part dans les étages du bas, et une infirmière de nuit au 18e. Va voir s'ils sont chez eux."
+D_DEFECTOR_START_DIALOG_11,"Chaya est partie la première, après notre rupture. Et moi, j'ai suivi peu après, à cause de ce connard prétentieux du 27e !"
+D_DEFECTOR_START_DIALOG_12,"Franchement, le code, je m'en fous un peu. Les étages de luxe peuvent aller se faire foutre. Mais... j'ai besoin qu'on me rende un [i]petit service[/i]. Après, le code est à toi !"
+D_DEFECTOR_START_DIALOG_13,"Hé, tu peux aussi glander dans la cage d'escalier plutôt que sur le toit."
+D_DEFECTOR_START_DIALOG_14,"Quand j'étais encore dans mon ancien appart, j'avais un voisin complètement débile. Il mettait [b]sa musique pourrie à fond, toutes les nuits sans exception[/b] !
+Je lui ai demandé de baisser le son un [b]million de fois[/b]. J'ai même déposé une plainte officielle auprès de Vista Gloria. Mais c'est un avocat, on n'avait aucune chance.
+Au final, j'ai déménagé. [i]La vue me manque encore[/i]... et pas entendre le train aussi fort."
+D_DEFECTOR_START_DIALOG_15,"[font_size=60][shake]Putain, mec, ça va pas ? T'es un psychopathe ? Non ![/shake][/font_size]"
+D_DEFECTOR_START_DIALOG_16,"Juste un petit aller-retour et t'auras le code en un rien de temps. Tu vas voir !
+Attends ici une seconde, je vais préparer la livraison."
+D_DEFECTOR_START_DIALOG_17,"Tiens, voilà."
+D_DEFECTOR_START_DIALOG_18,"Allez, fais pas cette tête. C'est [rainbow]juste une blague[/rainbow].
+On a un marché, non ? Tu t'occupes de la livraison ?"
+D_DEFECTOR_START_DIALOG_19,"Te revoilà. Alors, cette livraison ?"
+D_DEFECTOR_START_DIALOG_2,"J'ai cru que t'étais un cambrioleur ou un truc du genre. Enchanté, moi, c'est Dieter.
+Comment t'es arrivé jusqu'ici ? L'ascenseur remarche ?"
+D_DEFECTOR_START_DIALOG_20,"Ouais, ça se sent. À plus tard, alors."
+D_DEFECTOR_START_DIALOG_21,Tu me prends pour un con ? Je sens d'ici que tu l'as pas livré !
+D_DEFECTOR_START_DIALOG_22,"Haha, imagine sa tête quand il va découvrir ça ! Détends-toi, c'est juste une blague !"
+D_DEFECTOR_START_DIALOG_23,"J'espère que personne t'a vu ! Haha, j'adorerais voir sa tête !"
+D_DEFECTOR_START_DIALOG_24,"Ça, c'est du passé. Mais la surprise qui attend ce connard, c'est l'avenir radieux !"
+D_DEFECTOR_START_DIALOG_25,"Bon, à plus ! Faut que je me prépare pour le boulot."
+D_DEFECTOR_START_DIALOG_26,"Ils étaient [b]tellement[/b] arrogants. Ils ont [quest]payé un graffeur pour bomber cette putain de fresque géante « Gros Bonnets » au-dessus des boîtes aux lettres, [i]avec le digicode en prime[/i][/quest]."
+D_DEFECTOR_START_DIALOG_3,"Oh, ça promet. Vas-y, je t'écoute."
+D_DEFECTOR_START_DIALOG_30,[quest]Mets un truc dans sa boîte aux lettres[/quest] ! C'est celle avec le scotch rouge. Je l'ai déjà marquée pour deux-trois autres farces. Hé hé.
+D_DEFECTOR_START_DIALOG_31,Ouais. Un truc dans le genre... hé hé.
+D_DEFECTOR_START_DIALOG_32,"Voilà, tu sais tout, haha. Bon. N'oublie pas ma livraison !"
+D_DEFECTOR_START_DIALOG_33,"OK, voilà le secret du code de la grille.
+Je le connais pas !
+Attends, attends, c'était une blague ! Enfin, en partie. Je le connais pas, mais je sais où tu le trouveras. [b]Il est sous tes yeux[/b].
+Quand tu descendras livrer... ma surprise, [quest]regarde au-dessus des boîtes aux lettres[/quest]."
+D_DEFECTOR_START_DIALOG_4,"Ha, sûrement pas. Balance."
+D_DEFECTOR_START_DIALOG_5,"Hahaha, qu'elle aille se faire foutre. Elle arrive pas à tourner la page.
+Et elle t'a payé pour livrer ça ?
+D'ailleurs, comment t'es arrivé jusqu'ici ? L'ascenseur remarche ?"
+D_DEFECTOR_START_DIALOG_6,"Wow. T'es qui, toi ? Comment tu connais le code de frappe ?"
+D_DEFECTOR_START_DIALOG_7,Un vrai bonhomme ! Content de t'avoir comme voisin ! Alors. T'as besoin de quelque chose ?
+D_DEFECTOR_START_DIALOG_8,"Le toit ? Ah, donc t'as besoin du code de la grille ?"
+D_DEFECTOR_START_DIALOG_9,"Ouais, Chaya et moi, on habitait au 28e étage. Super vue... si on oublie les voisins."
+D_DEFECTOR_START_OPT_10_1,Évidemment. Il fallait que ce soit chaud.
+D_DEFECTOR_START_OPT_11_1,Dégueulasse.
+D_DEFECTOR_START_OPT_11_2,Nickel.
+D_DEFECTOR_START_OPT_11_3,Je me suis détesté pendant toute la descente et toute la remontée.
+D_DEFECTOR_START_OPT_12_1,Ça s'est passé nickel.
+D_DEFECTOR_START_OPT_12_2,Je ne l'ai pas encore fait.
+D_DEFECTOR_START_OPT_15_1,"Ouais, je m'en charge."
+D_DEFECTOR_START_OPT_1_1,Peu importe pour l'instant. J'ai besoin de ton aide !
+D_DEFECTOR_START_OPT_1_2,Détends-toi. Je suis le voisin du 6e.
+D_DEFECTOR_START_OPT_1_3,"C'est Chaya qui me l'a donné, elle a un message pour toi."
+D_DEFECTOR_START_OPT_2_1,J'ESPÈRE QUE TES PUTAINS DE COUILLES VONT POURRIR ET TOMBER !!
+D_DEFECTOR_START_OPT_2_2,"On peut aussi sauter ce passage, j'avais juste besoin de discuter avec toi."
+D_DEFECTOR_START_OPT_3_1,"Ouais, je l'ai même réparé moi-même !"
+D_DEFECTOR_START_OPT_3_2,"Oui, il marche. Mais j'ai besoin de ton aide."
+D_DEFECTOR_START_OPT_4_1,Il faut que j'aille sur le toit.
+D_DEFECTOR_START_OPT_4_2,Il paraît que tu vivais dans les étages de luxe ?
+D_DEFECTOR_START_OPT_4_3,Mon pied est... mal en point. J'ai besoin d'aide !
+D_DEFECTOR_START_OPT_5_1,Exactement.
+D_DEFECTOR_START_OPT_6_1,Évidemment... c'est quoi ?
+D_DEFECTOR_START_OPT_6_2,"Oh, sérieux ?"
+D_DEFECTOR_START_OPT_7_1,C'est quoi ?
+D_DEFECTOR_START_OPT_8_1,"Bon, tu veux que je le tue ou quoi ?"
+D_DEFECTOR_START_OPT_8_2,Je dois lui livrer un message ? Comme celui de Chaya ?
+D_DEFECTOR_START_OPT_8_3,"Bon, t'as besoin de quoi ?"
+D_DEFECTOR_START_OPT_9_1,Redescendre tout en bas ? Sérieux...

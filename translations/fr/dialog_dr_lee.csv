@@ -1,0 +1,107 @@
+keys,fr
+D_DR_LEE_SICK_DIALOG_36,"Bonjour. Mme Miller vient d'appeler. Elle m'a déjà résumé la situation : vous n'auriez jamais mangé de ces cacahuètes avant aujourd'hui. Je ne sais pas si vous avez un humour morbide, si vous êtes amnésique ou si vous dites la vérité."
+D_DR_LEE_SICK_DIALOG_37,"Dans ce cas, nous allons suivre le protocole. Écoutez-moi bien, il faut faire vite, maintenant.
+Descendez jusqu'à [quest]la sortie de l'immeuble, dans le hall d'entrée[/quest]. Une équipe d'urgence vous y attendra. Elle va vous prendre en charge et nous découvrirons ce qui se passe."
+D_DR_LEE_SICK_DIALOG_38,"Bien. D'accord. On suit le protocole et tout va bien se passer.
+[quest]Vous descendez directement[/quest]. Vous ne parlez à personne. Vous ne traînez pas."
+D_DR_LEE_SICK_DIALOG_39,"C'est vrai, le pied. J'en oubliais presque les problèmes que j'ai sous les yeux.
+Prenez cette lotion."
+D_DR_LEE_SICK_DIALOG_40,"Ça suffira sûrement pour arriver jusqu'à la sortie de l'immeuble. Ensuite, l'équipe s'occupera de tout."
+D_DR_LEE_SICK_DIALOG_41,"Mme Miller est une infirmière expérimentée. Je pensais qu'elle saurait faire la différence.
+Vous êtes sûr ? C'est grave."
+D_DR_LEE_SICK_DIALOG_42,"Oui. Je comprends. Mais ensemble, on peut y arriver. Vous descendez retrouver mon équipe et nous nous reverrons bientôt. Je ne vous laisserai pas seul."
+D_DR_LEE_SICK_DIALOG_43,"Non. Non, vous ne pouvez pas faire ça maintenant.
+Je ne veux pas vous faire peur. Mais c'est grave. Si vous montez là-haut... il vous arrivera des choses terribles."
+D_DR_LEE_SICK_DIALOG_44,Je sais que ça paraît étrange. Mais ne vous fiez pas à ces pensées. Ce ne sont pas les vôtres.
+D_DR_LEE_SICK_DIALOG_45,"Écoutez. Je ne suis pas psychologue. Je ne peux que vous dire la vérité. Et la vérité, c'est que cette pulsion de monter est un mensonge que votre propre corps vous raconte."
+D_DR_LEE_SICK_DIALOG_46,D'accord. Mais revenez quand vous voulez si vous changez d'avis. Je vous en prie.
+D_DR_LEE_SICK_DIALOG_47,Vous revoilà. Vous avez changé d'avis ? Vous allez rejoindre mon équipe ?
+D_DR_LEE_SICK_DIALOG_48,D'accord. Tant que vous ne montez pas. Revenez quand vous aurez changé d'avis. Et réfléchissez-y.
+D_DR_LEE_SICK_DIALOG_49,Pourquoi n'êtes-vous pas en route ? Descendez jusqu'à la sortie de l'immeuble. Tout de suite.
+D_DR_LEE_SICK_OPT_22_1,Bien sûr. Je dis juste la vérité !
+D_DR_LEE_SICK_OPT_22_2,Je... je plaisantais. Désolé pour le remue-ménage.
+D_DR_LEE_SICK_OPT_23_1,D'accord.
+D_DR_LEE_SICK_OPT_23_2,Descendre ? Je dois monter sur le toit !
+D_DR_LEE_SICK_OPT_23_3,Je ne sais pas si j'arriverai en bas avec mon pied.
+D_DR_LEE_SICK_OPT_23_4,"J'ai peur. Et vous aussi, on dirait."
+D_DR_LEE_SICK_OPT_24_1,"Oui, en y repensant, j'en ai mangé il y a deux semaines. [Mentir]"
+D_DR_LEE_SICK_OPT_24_2,Vous avez raison. J'ai juste... peur. Passons.
+D_DR_LEE_SICK_OPT_25_1,Je ne vous crois pas. Je sens que ça me fera du bien.
+D_DR_LEE_SICK_OPT_25_2,"D'accord, doc. Je vous fais confiance. Je descends."
+D_DR_LEE_SICK_OPT_26_1,"Ne pas me fier à mes pensées ? Mais à vous, oui ?"
+D_DR_LEE_SICK_OPT_27_1,J'en ai assez entendu. J'ai plus confiance en moi qu'en vous.
+D_DR_LEE_SICK_OPT_27_2,D'accord. Je vous fais confiance. Donc. Direction la sortie.
+D_DR_LEE_SICK_OPT_28_1,Non. Je ne ferai pas ça.
+D_DR_LEE_SICK_OPT_28_2,Oui. Je veux suivre le protocole.
+D_DR_LEE_START_DIALOG_1,"Ah, le voisin du dessous. Comment vous appelez-vous, déjà ?"
+D_DR_LEE_START_DIALOG_10,Mycose du pied.
+D_DR_LEE_START_DIALOG_11,Vous êtes venu tôt. C'est bien. La plupart ne viennent que lorsque [b][shake]la pulsion[/shake][/b] a déjà commencé.
+D_DR_LEE_START_DIALOG_12,Celle d'atteindre les hauteurs.
+D_DR_LEE_START_DIALOG_13,"Oui. Mais d'abord, je dois savoir à quel stade vous en êtes."
+D_DR_LEE_START_DIALOG_14,"C'est ce que les autres ont dit. Dites-moi, vous dormez mal ?"
+D_DR_LEE_START_DIALOG_15,Agité ? Irritable ? Vous vous surprenez à penser aux étages supérieurs ?
+D_DR_LEE_START_DIALOG_16,Parce que tout cela suit un schéma.
+D_DR_LEE_START_DIALOG_17,Non ! Bien sûr que non. Vous avez juste une mycose...
+D_DR_LEE_START_DIALOG_18,Certainement.
+D_DR_LEE_START_DIALOG_19,Tenez. Prenez cette lotion. Appliquez-la quand la démangeaison devient trop forte. [b]Ne vous grattez pas ![/b]
+D_DR_LEE_START_DIALOG_2,"Oui, je suis le Dr Lee. Je peux vous aider ? Les questions médicales ne me dérangent pas."
+D_DR_LEE_START_DIALOG_20,"Non. Un champignon, c'est irrégulier. Opportuniste. Désordonné."
+D_DR_LEE_START_DIALOG_21,"Ça, ça suit un schéma."
+D_DR_LEE_START_DIALOG_22,Je n'en ai pas besoin. Pas encore.
+D_DR_LEE_START_DIALOG_23,Tout à fait.
+D_DR_LEE_START_DIALOG_24,"Elle peut apaiser la peau. Elle n'apaisera pas [b][shake]la pulsion[/shake][/b], si elle est déjà là."
+D_DR_LEE_START_DIALOG_25,"J'ai rarement ce problème. [b]Les patients, si[/b]."
+D_DR_LEE_START_DIALOG_26,"Oh, et..."
+D_DR_LEE_START_DIALOG_27,"[b]Je vous en prie, n'en faites pas une habitude.[/b]"
+D_DR_LEE_START_DIALOG_28,"Pour vous aider, j'ai d'abord besoin de comprendre. Quels sont les symptômes ?"
+D_DR_LEE_START_DIALOG_29,"Quoi que ce soit, [i]j'ai vu pire[/i]. Décrivez les symptômes."
+D_DR_LEE_START_DIALOG_3,[b]« Vite » n'est pas un symptôme.[/b] Décrivez-le correctement.
+D_DR_LEE_START_DIALOG_30,"Très bien, vous pouvez revenir plus tard... [wave]ou pas[/wave]."
+D_DR_LEE_START_DIALOG_31,Écoutez. Vous êtes venu me voir avant que [b][shake]la pulsion[/shake][/b] ne commence. [i]C'est bien ![/i]
+D_DR_LEE_START_DIALOG_32,Encore vous. Vous avez changé d'avis ? Besoin d'aide ?
+D_DR_LEE_START_DIALOG_33,"Oh. Dans ce cas, dites-lui de venir me voir."
+D_DR_LEE_START_DIALOG_34,"Tenez. [b]Trois tubes de lotion antifongique.[/b] Dites-lui de l'appliquer quand la démangeaison devient trop forte.
+Ne le laissez pas se gratter.
+Ne le laissez pas monter."
+D_DR_LEE_START_DIALOG_35,[b]Et n'en faites pas une habitude.[/b]
+D_DR_LEE_START_DIALOG_4,Un pied ou les deux ?
+D_DR_LEE_START_DIALOG_5,Le gauche. Entre le quatrième et le cinquième orteil.
+D_DR_LEE_START_DIALOG_6,Parce que vous n'êtes pas le premier.
+D_DR_LEE_START_DIALOG_7,Exactement ça. J'ai déjà vu ce tableau clinique.
+D_DR_LEE_START_DIALOG_8,"Toujours le pied d'abord. Les démangeaisons, le blanchiment, la sensation d'humidité, même quand la peau est sèche."
+D_DR_LEE_START_DIALOG_9,Je sais comment l'appellent les gens qui veulent [b]encore[/b] des réponses simples.
+D_DR_LEE_START_OPT_10_1,Quelle pulsion ?
+D_DR_LEE_START_OPT_10_2,Je m'en fiche. Donnez-moi juste quelque chose pour ça.
+D_DR_LEE_START_OPT_11_1,"J'en ai assez entendu. Vous pouvez m'aider, oui ou non ?"
+D_DR_LEE_START_OPT_12_1,« À quel stade » ? C'est une mycose.
+D_DR_LEE_START_OPT_13_1,Peut-être.
+D_DR_LEE_START_OPT_13_2,"Non, je dors comme un bébé. J'ai juste besoin d'un truc pour que ça arrête de gratter !"
+D_DR_LEE_START_OPT_14_1,Pourquoi vous me demandez ça ?
+D_DR_LEE_START_OPT_15_1,Je ne suis pas fou.
+D_DR_LEE_START_OPT_15_2,Donnez-moi juste quelque chose. S'il vous plaît
+D_DR_LEE_START_OPT_16_1,"J'en ai assez entendu. Vous pouvez m'aider, oui ou non ?"
+D_DR_LEE_START_OPT_17_1,Vous ne l'avez même pas regardé.
+D_DR_LEE_START_OPT_18_1,"Vous êtes sérieuse, doc ?"
+D_DR_LEE_START_OPT_18_2,"J'en ai assez entendu. Vous pouvez m'aider, oui ou non ?"
+D_DR_LEE_START_OPT_19_1,Merci. C'est tout ?
+D_DR_LEE_START_OPT_1_1,"Ah, peu importe.
+Vous êtes médecin, c'est bien ça ?"
+D_DR_LEE_START_OPT_20_1,Ce que vous dites n'a aucun sens.
+D_DR_LEE_START_OPT_21_1,"Bien sûr, je lui dirai !"
+D_DR_LEE_START_OPT_21_2,Il ne peut pas monter l'escalier.
+D_DR_LEE_START_OPT_2_1,Il me faut un truc contre une mycose du pied. Vite.
+D_DR_LEE_START_OPT_2_2,Mon pied me démange à mort. Vous auriez une crème pour ça ?
+D_DR_LEE_START_OPT_2_3,"C'est gênant, mais je crois que j'ai un problème au pied."
+D_DR_LEE_START_OPT_3_1,Ça démange. Ça brûle un peu. La peau est devenue molle. Et ça ne fait qu'empirer.
+D_DR_LEE_START_OPT_3_2,Je ne sais pas. Je demande pour mon voisin.
+D_DR_LEE_START_OPT_3_3,Non ! C'est trop gênant !
+D_DR_LEE_START_OPT_4_1,Un seul.
+D_DR_LEE_START_OPT_5_1,...Comment vous le savez ?
+D_DR_LEE_START_OPT_6_1,"Comment ça, « pas le premier » ?"
+D_DR_LEE_START_OPT_6_2,"Vous pouvez m'aider, oui ou non ?"
+D_DR_LEE_START_OPT_6_3,C'est juste une mycose. Arrêtez de faire la mystérieuse.
+D_DR_LEE_START_OPT_7_1,Donc vous savez ce que c'est ?
+D_DR_LEE_START_OPT_7_2,Je m'en fiche. Donnez-moi juste quelque chose pour ça.
+D_DR_LEE_START_OPT_8_1,... Et ?
+D_DR_LEE_START_OPT_9_1,Je m'en fiche. Donnez-moi juste quelque chose pour ça.
+D_DR_LEE_START_OPT_9_2,C'est dangereux ?

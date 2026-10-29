@@ -1,0 +1,138 @@
+keys,fr
+D_OLD_LADY_START_DIALOG_1,"Oh, de la visite !"
+D_OLD_LADY_START_DIALOG_10,Je t'avais promis une récompense...
+D_OLD_LADY_START_DIALOG_11,Passe une merveilleuse journée.
+D_OLD_LADY_START_DIALOG_12,Tu ne peux pas rendre un petit service à une jeune femme ?
+D_OLD_LADY_START_DIALOG_13,"Hm, très bien. J'attendrai."
+D_OLD_LADY_START_DIALOG_14,Ce n'est pas parce que je suis vieille que j'ai une pharmacie à la maison. Demande au Dr Lee. Elle habite au 8e étage.
+D_OLD_LADY_START_DIALOG_15,"Oh, tu reviens juste pour me dire bonjour ? Que c'est gentil !"
+D_OLD_LADY_START_DIALOG_16,Je dois dire que tu sens drôlement fort. Une douche te ferait le plus grand bien.
+D_OLD_LADY_START_DIALOG_17,"Comme c'est adorable ! Je savais que tu avais bon cœur !
+Je viens de les faire, sers-toi."
+D_OLD_LADY_START_DIALOG_18,Tu as trouvé des choses intéressantes ?
+D_OLD_LADY_START_DIALOG_19,"Oh, monsieur est très occupé, je vois !"
+D_OLD_LADY_START_DIALOG_2,"Rends-moi un service, mon petit. Rapporte-moi le [quest]journal qui est dans ma boîte aux lettres, à côté de l'ascenseur[/quest]."
+D_OLD_LADY_START_DIALOG_20,...
+D_OLD_LADY_START_DIALOG_21,...
+D_OLD_LADY_START_DIALOG_22,...
+D_OLD_LADY_START_DIALOG_23,"Tu n'aurais pas trouvé quelques trésors, par hasard ?"
+D_OLD_LADY_START_DIALOG_24,"Une autre fois, peut-être."
+D_OLD_LADY_START_DIALOG_25,"Oh, comme c'est intrigant ! Reviens plus tard, je veux l'examiner de plus près !"
+D_OLD_LADY_START_DIALOG_26,Attends. Est-ce que c'est... Freddy ?
+D_OLD_LADY_START_DIALOG_27,"Je suis trop vieille pour marchander. Je t'en donne [b]quatre pièces[/b], et on n'en parle plus."
+D_OLD_LADY_START_DIALOG_28,"À ton avis, pourquoi je t'en offre QUATRE PIÈCES ?"
+D_OLD_LADY_START_DIALOG_29,"Certainement pas, mon petit. Tu peux le garder. C'est peut-être un porte-bonheur pour toi ?"
+D_OLD_LADY_START_DIALOG_3,Je te promets que [b]ça en vaudra la peine[/b] !
+D_OLD_LADY_START_DIALOG_30,"Alors, [b]quatre pièces[/b]. Marché conclu ?"
+D_OLD_LADY_START_DIALOG_31,"Reviens quand tu veux, mon petit. Ou quand le fardeau de ton Freddy deviendra trop lourd."
+D_OLD_LADY_START_DIALOG_32,Enfin. J'ai attendu ce moment bien trop longtemps.
+D_OLD_LADY_START_DIALOG_33,"[tornado]La Rame ?[/tornado] Non, mon petit. Je ne me souviens pas de [i]ça[/i]."
+D_OLD_LADY_START_DIALOG_34,"Ah oui, tu veux parler de ce joli marque-page. Oui, je l'ai. Page 314.."
+D_OLD_LADY_START_DIALOG_35,"Je vois...
+Tu es encore jeune. Alors retiens bien cette leçon.
+[b]Un marché, c'est un marché.[/b]"
+D_OLD_LADY_START_DIALOG_36,"Oh, [wave]bien sûr, mon petit[/wave].
+Tu peux la racheter pour [b]cinq pièces[/b]. Je m'y suis tellement attachée qu'elle a pris une [i]valeur sentimentale[/i].
+Ou alors, tu peux me rendre un [i]petit service[/i]."
+D_OLD_LADY_START_DIALOG_37,"Hm, c'est bien dommage. Alors il n'y a plus qu'[i]une chose[/i] à faire."
+D_OLD_LADY_START_DIALOG_38,"Bien sûr, bien sûr. Mais j'avoue que je préférerais que tu me rendes ce petit service. Tu es sûr de vouloir payer en pièces ?"
+D_OLD_LADY_START_DIALOG_39,"Très bien, un marché, c'est un marché. Amuse-toi bien avec ce marque-page en Rame."
+D_OLD_LADY_START_DIALOG_4,[font_size=60][shake][b]Espèce de sale petite peste ![/b][/shake][/font_size]
+D_OLD_LADY_START_DIALOG_40,"La femme du [b]9e étage[/b]. Elle sanglote [i]toooute la journée[/i], [i]tous les jours[/i], depuis... je ne sais même plus combien de temps. Des mois. Je compatis, vraiment.
+Mais les murs sont si fins.
+Si tu peux [b]lui apporter un mot[/b] de ma part, tu récupères ta Rame."
+D_OLD_LADY_START_DIALOG_41,"Te revoilà, tu as l'air un peu soucieux."
+D_OLD_LADY_START_DIALOG_42,"Attends, je sens comme une... présence sur toi."
+D_OLD_LADY_START_DIALOG_43,"Parce que ça l'est.
+Tu montes là-haut et tu le glisses sous sa porte. Ensuite, tu frappes. Elle ne répondra sans doute pas, mais tu frappes quand même."
+D_OLD_LADY_START_DIALOG_44,Regarde-moi. J'ai même dû te [b]demander d'aller chercher mon journal[/b] juste un étage plus bas.
+D_OLD_LADY_START_DIALOG_45,Reviens quand tu veux si tu tiens vraiment à récupérer ta Rame. Mon offre tient toujours. Rien que pour toi.
+D_OLD_LADY_START_DIALOG_46,Tu as réfléchi à mon offre ? Tu vas lui porter le mot ?
+D_OLD_LADY_START_DIALOG_47,Tu es déjà de retour !
+D_OLD_LADY_START_DIALOG_48,"Oh, j'ai bien peur que ce marché ne tienne plus. J'ai demandé à mon petit-fils de regarder sur Internet. Il se trouve que ces machins-là coûtent très cher et que ce n'est pas du tout de la camelote.
+Mais je peux te la vendre pour 340 pièces. J'accepte aussi les billets, bien sûr."
+D_OLD_LADY_START_DIALOG_49,"Parfait ! J'espère qu'elle comprendra mon message.
+N'oublie pas. Glisse-le [b]sous sa porte, puis frappe[/b]."
+D_OLD_LADY_START_DIALOG_5,"Je t'attends ici. Je ne vais pas m'enfuir, promis."
+D_OLD_LADY_START_DIALOG_50,Reviens quand ce sera fait. Enfin un peu de [i]paix pour mes oreilles[/i] !
+D_OLD_LADY_START_DIALOG_51,"Alors chut, chut. Mes oreilles ont besoin de calme."
+D_OLD_LADY_START_DIALOG_52,"Oui, j'ai remarqué ! Les sanglots se sont arrêtés. Enfin un peu de [i]silence[/i] dans cet immeuble.
+Tiens, voilà ce que tu voulais."
+D_OLD_LADY_START_DIALOG_53,"Je suis peut-être vieille, mais je ne suis pas sourde. J'entends encore les sanglots.
+Et... [b]ne me mens plus jamais[/b]."
+D_OLD_LADY_START_DIALOG_54,"Et maintenant, laisse-moi retourner à mon livre."
+D_OLD_LADY_START_DIALOG_55,Toujours droit au but. Moi qui te croyais différent.
+D_OLD_LADY_START_DIALOG_56,"Ah, et si tu trouves quelque chose qui ressemble à de la [quest]camelote[/quest], détrompe-toi. [quest]Apporte-le-moi ![/quest]"
+D_OLD_LADY_START_DIALOG_57,Non ! Meredith est absolument insupportable ! Elle n'arrête pas de fourrer ces cochonneries dans nos boîtes aux lettres ! Sans demander l'avis de personne ! Quel ramassis d'âneries.
+D_OLD_LADY_START_DIALOG_58,Je te rachète toutes sortes d'objets de collection. Mais pas ces saletés !
+D_OLD_LADY_START_DIALOG_59,Autre chose ?
+D_OLD_LADY_START_DIALOG_6,"Ce n'est pas parce que je suis vieille que j'ai une pharmacie à la maison. Demande au Dr Lee. Elle habite au 8e étage. Ou peut-être au concierge, au rez-de-chaussée."
+D_OLD_LADY_START_DIALOG_7,Encore toi !
+D_OLD_LADY_START_DIALOG_8,Tu m'as rapporté mon [b]journal[/b] ?
+D_OLD_LADY_START_DIALOG_9,"Oh, comme c'est gentil. La dernière fois qu'on a fait quelque chose d'aussi adorable pour moi, c'est quand les soldats sont rentrés au port et qu'on a fait la fête dans l'entrepôt."
+D_OLD_LADY_START_OPT_10_1,"Je ne sais pas trop, voyons voir..."
+D_OLD_LADY_START_OPT_10_2,"OK, peut-être plus tard !"
+D_OLD_LADY_START_OPT_11_1,"Ouais, peut-être... Je suis tombé sur cette figurine Freddy Funko Pop."
+D_OLD_LADY_START_OPT_11_2,À propos de cette figurine Freddy Funko Pop...
+D_OLD_LADY_START_OPT_11_3,Faisons affaire !
+D_OLD_LADY_START_OPT_11_4,Je dois y aller.
+D_OLD_LADY_START_OPT_12_1,Oui !
+D_OLD_LADY_START_OPT_13_1,"Hm, ça me va, je suppose."
+D_OLD_LADY_START_OPT_13_2,Quoi ? Vous essayez de me voler ???
+D_OLD_LADY_START_OPT_13_3,"Avant de l'acheter, vous devriez savoir qu'il vient du type du 7e étage. Je crois qu'il a quelque chose qui cloche !"
+D_OLD_LADY_START_OPT_13_4,Je préfère juste faire un échange.
+D_OLD_LADY_START_OPT_13_5,"Non, une autre fois peut-être."
+D_OLD_LADY_START_OPT_14_1,Conclu !
+D_OLD_LADY_START_OPT_14_2,"Non, je préfère le garder."
+D_OLD_LADY_START_OPT_15_1,Un petit composant électronique vert qui ressemble à une barre de céréales.
+D_OLD_LADY_START_OPT_16_1,Ça vous dérangerait de me la rendre ?
+D_OLD_LADY_START_OPT_17_1,On peut faire un nouveau marché ?
+D_OLD_LADY_START_OPT_18_1,Hm... Je paie les cinq pièces.
+D_OLD_LADY_START_OPT_18_2,"C'est quoi, ce petit service ?"
+D_OLD_LADY_START_OPT_19_1,Je n'ai pas autant de pièces.
+D_OLD_LADY_START_OPT_19_2,"C'est quoi, ce petit service ?"
+D_OLD_LADY_START_OPT_1_1,Je vais chercher votre journal.
+D_OLD_LADY_START_OPT_1_2,Certainement PAS ! Je ne suis pas votre larbin !
+D_OLD_LADY_START_OPT_1_3,Vous auriez un peu de crème antifongique ?
+D_OLD_LADY_START_OPT_1_4,Laissez tomber... salut !
+D_OLD_LADY_START_OPT_20_1,"Oui, finissons-en."
+D_OLD_LADY_START_OPT_20_2,"OK, dites-moi ce que vous voulez vraiment."
+D_OLD_LADY_START_OPT_21_1,Vous vous souvenez de la barrette de RAM que je vous ai vendue ?
+D_OLD_LADY_START_OPT_21_2,"Non, rien. Faisons affaire."
+D_OLD_LADY_START_OPT_21_3,Je dois y aller.
+D_OLD_LADY_START_OPT_22_1,Ça a l'air facile.
+D_OLD_LADY_START_OPT_22_2,Pourquoi vous ne le faites pas vous-même ?
+D_OLD_LADY_START_OPT_22_3,"Non, désolé, très peu pour moi."
+D_OLD_LADY_START_OPT_23_1,J'ai déposé le mot...
+D_OLD_LADY_START_OPT_23_2,J'ai déposé le mot !
+D_OLD_LADY_START_OPT_23_3,Je n'ai pas encore déposé le mot.
+D_OLD_LADY_START_OPT_23_4,Je veux faire un échange.
+D_OLD_LADY_START_OPT_23_5,À plus tard !
+D_OLD_LADY_START_OPT_24_1,"D'accord, je m'en charge."
+D_OLD_LADY_START_OPT_24_2,"Non, je ne ferai pas ça."
+D_OLD_LADY_START_OPT_25_1,"D'accord, je vais porter le mot."
+D_OLD_LADY_START_OPT_25_2,J'ai les pièces. Je veux la racheter !
+D_OLD_LADY_START_OPT_25_3,"Non, je ne ferai pas ça."
+D_OLD_LADY_START_OPT_26_1,Je crois que j'ai trouvé quelque chose !
+D_OLD_LADY_START_OPT_26_2,Ça marche.
+D_OLD_LADY_START_OPT_27_1,"Et cette lettre, « Notre Petite Famille » ? Ça ne vous intéresse pas ?"
+D_OLD_LADY_START_OPT_2_1,"Oui, le voici, Madame."
+D_OLD_LADY_START_OPT_2_2,"Je l'ai, mais vous l'aurez pas, vieille peau !"
+D_OLD_LADY_START_OPT_3_1,Je ne l'ai pas encore. Mais je reviendrai !
+D_OLD_LADY_START_OPT_3_2,Je ne suis pas votre larbin !
+D_OLD_LADY_START_OPT_4_1,"Pfff... bon, d'accord. Je vais le chercher."
+D_OLD_LADY_START_OPT_4_2,Une jeune femme ? Hahaha !
+D_OLD_LADY_START_OPT_5_1,J'ai déjà votre journal !
+D_OLD_LADY_START_OPT_5_2,Vous auriez un peu de crème antifongique ?
+D_OLD_LADY_START_OPT_5_3,"Je l'ai, mais je le garde, vieille peau !"
+D_OLD_LADY_START_OPT_6_1,Je vais chercher votre journal.
+D_OLD_LADY_START_OPT_6_2,Allez vous faire foutre !
+D_OLD_LADY_START_OPT_6_3,Laissez tomber... salut !
+D_OLD_LADY_START_OPT_7_1,"Bon, d'accord, le voilà, votre journal."
+D_OLD_LADY_START_OPT_7_2,"Vous l'aurez jamais, votre journal, vieille sorcière !"
+D_OLD_LADY_START_OPT_8_1,"Je passais par là, je voulais vous dire bonjour."
+D_OLD_LADY_START_OPT_8_2,Je crois que j'ai des choses qui pourraient vous intéresser.
+D_OLD_LADY_START_OPT_8_3,Je me suis juste trompé de porte.
+D_OLD_LADY_START_OPT_9_1,"Désolé, c'était impoli de ma part."
+D_OLD_LADY_START_OPT_9_2,J'espère que vous n'attendez pas d'excuses.
+D_OLD_LADY_START_OPT_9_3,"Bon, au revoir."

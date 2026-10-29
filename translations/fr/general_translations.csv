@@ -1,0 +1,660 @@
+keys,fr
+CONTAINER_TYPE_CARDBOARD_BOX,Carton
+CONTAINER_TYPE_OLD_COMPUTER,Vieil ordinateur
+CONTAINER_TYPE_PAPER_BUNDLE,Pile de papiers
+CONTAINER_TYPE_PIZZA_BOX,Carton à pizza
+CONTAINER_TYPE_RUSTY_BARREL,Baril rouillé
+CONTAINER_TYPE_SMALL_BOX,Petite boîte
+CONTAINER_TYPE_TRASH,Ordures
+CONTAINER_TYPE_TRASH_BAG,Sac poubelle
+CONTROLS_CROUCH,S'accroupir
+CONTROLS_FLASHLIGHT,Lampe torche
+CONTROLS_IDEAS,Idées
+CONTROLS_INTERACT,Interagir
+CONTROLS_INVENTORY,Inventaire
+CONTROLS_MOVE,Se déplacer
+CONTROLS_MOVE_LOOK,Se déplacer / Regarder
+CONTROLS_OR,ou
+CONTROLS_SPRINT,Courir
+CONTROLS_TITLE,Commandes
+CREDIT_SCREEN_ADDITIONAL_SFX,Effets sonores additionnels
+CREDIT_SCREEN_CHAR_VOICES,Voix additionnelles des personnages
+CREDIT_SCREEN_COMMUNITY,Merci à la communauté et aux testeurs
+CREDIT_SCREEN_GODOT,"Ce jeu a été créé avec le moteur
+libre et open source Godot Engine."
+CREDIT_SCREEN_LICENSES,Informations de licence complémentaires dans license.txt
+CREDIT_SCREEN_MADE_BY,Un jeu de
+CREDIT_SCREEN_MUSIC_BY,Musique
+CREDIT_SCREEN_OST_MASTER,Mastering de la bande originale
+CREDIT_SCREEN_SPECIAL_THANKS,Remerciements spéciaux
+CREDIT_SCREEN_TOOLS,Outils et autres licences
+CREDIT_SCREEN_TRANSLATION,Traduction
+DEAH_UNKNOWN,Je sais pas ce que t'as fabriqué. Mais c'était pas bon pour la santé !
+DEATH_CHEF,"Il était venu pour le chef.
+Tu étais plus près."
+DEATH_CULT,"Finalement, c'[i]était[/i] bien une secte."
+DEATH_DEFAULT1,Problème podologique. Fatal.
+DEATH_DEFAULT2,Tu n'as jamais été qu'un moyen de transport.
+DEATH_DEFAULT3,Il n'avait plus besoin de toi.
+DEATH_DEFAULT4,Il a trouvé un autre moyen de monter.
+DEATH_DEFAULT5,Presque.
+DEATH_DEFAULT6,Marches restantes : quelques-unes.
+DEATH_DEFAULT7,Échec de la livraison.
+DEATH_DEFAULT8,Tu es monté. Pas assez haut.
+DEATH_DEHYDRATE,"Tu es mort de déshydratation.
+Le tueur silencieux."
+DEATH_INFECTION_BASE,Tu es mort d'une mycose du pied avant d'atteindre le toit.
+DEATH_LINDA,Tu n'as pas atteint le toit. Son frère non plus.
+DEATH_MOLD_ON_MOLD,Violences entre moisissures.
+DEATH_SHOTGUN,"T'as fait le malin, t'as pris cher."
+DEATH_STARVED,"Tu es mort de faim.
+Ton corps avait besoin de plus d'énergie."
+DEATH_VACCINE,"Obéis à ton pied.
+Monte, monte, monte !"
+DEATH_VACCINE2,... pour le bien commun.
+ENDING_HALLUCINATION_1,Te voilà.
+ENDING_HALLUCINATION_2,J'ai été si patient.
+ENDING_HALLUCINATION_3,"Le vent est meilleur, ici en haut."
+ENDING_HALLUCINATION_4,C'est ça qui compte.
+ENDING_HALLUCINATION_5,Tu sens l'air bouger ?
+ENDING_HALLUCINATION_6,"Bien. Maintenant, le plus dur, c'est pour moi."
+ENDING_HALLUCINATION_7,Repose-toi. Tu as bien mérité le calme.
+FUNGAL_VOICE_1,Par ici.
+FUNGAL_VOICE_10,Continue.
+FUNGAL_VOICE_11,"Viens, encore un peu."
+FUNGAL_VOICE_12,Oui.
+FUNGAL_VOICE_13,Par ici.
+FUNGAL_VOICE_14,"Je suis là, tout près."
+FUNGAL_VOICE_15,Là-haut…
+FUNGAL_VOICE_16,"Suis-moi, monte."
+FUNGAL_VOICE_17,Plus que quelques marches.
+FUNGAL_VOICE_18,Tu peux me faire confiance.
+FUNGAL_VOICE_19,Viens là où c'est calme.
+FUNGAL_VOICE_2,Approche.
+FUNGAL_VOICE_20,Laisse tout ça derrière toi.
+FUNGAL_VOICE_21,Plus haut.
+FUNGAL_VOICE_22,Toujours plus haut.
+FUNGAL_VOICE_23,Je t'attends.
+FUNGAL_VOICE_24,Viens à moi.
+FUNGAL_VOICE_25,Monte avec moi.
+FUNGAL_VOICE_26,Tu t'en sors bien.
+FUNGAL_VOICE_27,Laisse-toi guider par ma voix.
+FUNGAL_VOICE_28,Tout va bien.
+FUNGAL_VOICE_29,Reste avec moi.
+FUNGAL_VOICE_3,Suis ma voix.
+FUNGAL_VOICE_30,Presque arrivé.
+FUNGAL_VOICE_31,Je t'attends là-haut.
+FUNGAL_VOICE_32,Viens là où je suis.
+FUNGAL_VOICE_33,Ne te retourne pas.
+FUNGAL_VOICE_4,"Ici, en haut."
+FUNGAL_VOICE_5,Encore un peu plus haut.
+FUNGAL_VOICE_6,"Allez, monte."
+FUNGAL_VOICE_7,Tu es presque là.
+FUNGAL_VOICE_8,N'aie pas peur.
+FUNGAL_VOICE_9,"Ici, en haut, tu ne risques rien."
+GPU_WARNING,"Le jeu utilise une méthode de rendu de secours. Causes possibles :
+- Carte graphique incompatible
+- Pilote graphique obsolète
+
+Le rendu du jeu ne sera pas celui prévu."
+IDEA_CHEF_DELI_DESCR,Il y a un chef au 16e étage qui échange de la nourriture.
+IDEA_CHEF_DELI_NAME,Épicerie fine
+IDEA_FUSE_DESCR,Il y a un fusible d'ascenseur quelque part au sous-sol.
+IDEA_FUSE_NAME,Fusible de rechange
+IDEA_GRAFFITI_DESCR,Le code de la grille des étages de luxe se cache dans un graffiti au-dessus des boîtes aux lettres.
+IDEA_GRAFFITI_NAME,Les Gros Bonnets
+IDEA_KEY_DESCR,La clé du toit est cachée derrière un tuyau de gaz au sous-sol.
+IDEA_KEY_NAME,Clé planquée
+IDEA_KNOCK_CODE_DESCR,Le code de frappe secret de Dieter est caché dans un message personnel à son ex.
+IDEA_KNOCK_CODE_NAME,Énigme
+IDEA_MOLD_DESCR,Je peux boire du Roca Cola juste avant de manger un truc pourri pour voir dans le noir.
+IDEA_MOLD_NAME,Défense fongique
+IDEA_NURSE_DESCR,Une infirmière du 18e étage vend des médicaments antifongiques.
+IDEA_NURSE_NAME,Dealeuse de nuit
+IDEA_OLD_LADY_DESCR,La Vieille Dame du 1er étage rachète toutes sortes de cochonneries.
+IDEA_OLD_LADY_NAME,Accumulatrice
+INFECTION_DIALOG_LINE_1,Le toit est ouvert.
+INFECTION_DIALOG_LINE_10,Tu y es presque.
+INFECTION_DIALOG_LINE_11,Rien de bon ne t'attend en bas.
+INFECTION_DIALOG_LINE_12,Les escaliers sont juste là.
+INFECTION_DIALOG_LINE_13,Fais confiance à l'appel.
+INFECTION_DIALOG_LINE_14,"Plus haut, c'est mieux."
+INFECTION_DIALOG_LINE_15,Tu sais où tu vas.
+INFECTION_DIALOG_LINE_16,"Sur le toit, tu ne risques rien."
+INFECTION_DIALOG_LINE_17,Ne perds pas ton temps en bas.
+INFECTION_DIALOG_LINE_18,"Monter, c'est ce qu'il faut."
+INFECTION_DIALOG_LINE_19,L'immeuble s'ouvre au sommet.
+INFECTION_DIALOG_LINE_2,Monte. Maintenant.
+INFECTION_DIALOG_LINE_20,Tu es allé trop loin pour t'arrêter.
+INFECTION_DIALOG_LINE_21,Suis ce que tu ressens.
+INFECTION_DIALOG_LINE_22,Le dernier étage est à toi.
+INFECTION_DIALOG_LINE_23,"Le bas, c'est fini."
+INFECTION_DIALOG_LINE_24,Ta place est plus haut que ça.
+INFECTION_DIALOG_LINE_25,Tout ce dont tu as besoin est là-haut.
+INFECTION_DIALOG_LINE_26,L'appel est bien réel. Suis-le.
+INFECTION_DIALOG_LINE_27,Monter. C'est la seule direction qui reste.
+INFECTION_DIALOG_LINE_28,"Là-haut, tu pourras respirer."
+INFECTION_DIALOG_LINE_29,Le toit t'est toujours ouvert.
+INFECTION_DIALOG_LINE_3,Continue de grimper.
+INFECTION_DIALOG_LINE_30,Ne laisse rien te retenir ici.
+INFECTION_DIALOG_LINE_31,Encore un étage. Puis encore un.
+INFECTION_DIALOG_LINE_32,Tu es trop près pour t'arrêter maintenant.
+INFECTION_DIALOG_LINE_33,"Sur le toit, l'air n'est pas le même."
+INFECTION_DIALOG_LINE_34,"En bas, tout pourrit. Ça se sent."
+INFECTION_DIALOG_LINE_35,C'est en haut que ça va mieux.
+INFECTION_DIALOG_LINE_36,"Plus tu montes, plus c'est propre."
+INFECTION_DIALOG_LINE_37,Fais confiance à ton pied. Il connaît le chemin.
+INFECTION_DIALOG_LINE_38,L'immeuble te veut au sommet.
+INFECTION_DIALOG_LINE_39,Tu n'as pas fini de grimper.
+INFECTION_DIALOG_LINE_4,Ne t'arrête pas ici.
+INFECTION_DIALOG_LINE_40,Tu sens le toit d'ici.
+INFECTION_DIALOG_LINE_41,"Le sommet, c'est là que tu allais depuis le début."
+INFECTION_DIALOG_LINE_42,"Désormais, ça ne peut qu'aller mieux."
+INFECTION_DIALOG_LINE_43,Continue. Tu y es presque.
+INFECTION_DIALOG_LINE_44,Ce qu'il te faut est sur le toit.
+INFECTION_DIALOG_LINE_45,Tout ce qui est bon est au-dessus de toi maintenant.
+INFECTION_DIALOG_LINE_46,Ta place n'est pas à cet étage.
+INFECTION_DIALOG_LINE_47,Les escaliers sont la seule chose qui compte.
+INFECTION_DIALOG_LINE_48,C'est là que tu te dirigeais depuis le début.
+INFECTION_DIALOG_LINE_49,Le sommet est ouvert et il attend.
+INFECTION_DIALOG_LINE_5,L'air est meilleur là-haut.
+INFECTION_DIALOG_LINE_50,"Là-haut, tu es en sécurité. Tu comprendras en arrivant."
+INFECTION_DIALOG_LINE_51,"Monter, c'est la bonne réponse. Ça l'a toujours été."
+INFECTION_DIALOG_LINE_52,Tu comprendras quand tu y seras.
+INFECTION_DIALOG_LINE_53,Ne t'arrête pas. Pas encore. Pas ici.
+INFECTION_DIALOG_LINE_54,"Le toit, c'est là que tout finit bien."
+INFECTION_DIALOG_LINE_55,"Le bas, c'est juste d'où tu viens."
+INFECTION_DIALOG_LINE_56,"Tôt ou tard, tu devais finir là-haut."
+INFECTION_DIALOG_LINE_57,"Le sommet de cet immeuble, c'est là que tu dois être."
+INFECTION_DIALOG_LINE_58,Va plus haut. N'y réfléchis pas trop.
+INFECTION_DIALOG_LINE_59,Rien en bas ne mérite que tu restes.
+INFECTION_DIALOG_LINE_6,Tu le sens déjà.
+INFECTION_DIALOG_LINE_60,"En haut, c'est ouvert. En bas, ça se referme."
+INFECTION_DIALOG_LINE_61,"Monter, c'est la seule direction qui ait encore un sens."
+INFECTION_DIALOG_LINE_62,Tous les étages du dessous sont derrière toi maintenant.
+INFECTION_DIALOG_LINE_63,Le toit est le seul endroit propre qui reste dans cet immeuble.
+INFECTION_DIALOG_LINE_64,Tu es si près que tu sens que ça s'achève.
+INFECTION_DIALOG_LINE_65,Ne laisse rien à cet étage te ralentir.
+INFECTION_DIALOG_LINE_66,L'appel ne ment pas. Il n'a jamais menti.
+INFECTION_DIALOG_LINE_67,Tu as raison d'avancer. Continue d'avancer.
+INFECTION_DIALOG_LINE_68,Plus haut. Bien plus haut que ça.
+INFECTION_DIALOG_LINE_69,"Depuis le début, l'immeuble te guide jusqu'ici."
+INFECTION_DIALOG_LINE_7,Ça t'attend.
+INFECTION_DIALOG_LINE_70,"Tu pourras te reposer au sommet. Mais d'abord, arrives-y."
+INFECTION_DIALOG_LINE_8,Le sommet est proche.
+INFECTION_DIALOG_LINE_9,Monter. Il n'y a pas d'autre chemin.
+INFECTION_OPTION_LINE_1,Je dois monter.
+INFECTION_OPTION_LINE_10,Où sont les escaliers.
+INFECTION_OPTION_LINE_11,Je dois y aller. Maintenant.
+INFECTION_OPTION_LINE_12,Le dernier étage. Comment j'y vais.
+INFECTION_OPTION_LINE_13,Je dois bouger.
+INFECTION_OPTION_LINE_14,Le toit. Il me faut le toit.
+INFECTION_OPTION_LINE_15,Je ne peux pas m'arrêter ici.
+INFECTION_OPTION_LINE_16,Il faut que je monte encore.
+INFECTION_OPTION_LINE_17,Je dois être plus haut que ça.
+INFECTION_OPTION_LINE_18,Les escaliers sont quelque part. Où.
+INFECTION_OPTION_LINE_19,Je dois finir de grimper.
+INFECTION_OPTION_LINE_2,Le toit. Maintenant.
+INFECTION_OPTION_LINE_20,Je dois arriver au sommet.
+INFECTION_OPTION_LINE_21,Je ne peux plus rester à cet étage.
+INFECTION_OPTION_LINE_22,Je dois continuer d'avancer. Vers le haut.
+INFECTION_OPTION_LINE_23,Laissez-moi partir. Je dois monter.
+INFECTION_OPTION_LINE_24,Je n'ai pas le temps. Il me faut le toit.
+INFECTION_OPTION_LINE_25,Je dois y arriver avant que ce soit fini.
+INFECTION_OPTION_LINE_26,Le sommet. Il me faut le sommet.
+INFECTION_OPTION_LINE_27,"Quelque chose veut que je monte. Et moi aussi, je le veux."
+INFECTION_OPTION_LINE_28,J'y vais. Il faut que j'y aille. En haut.
+INFECTION_OPTION_LINE_29,"D'ici, elle mène où, la cage d'escalier."
+INFECTION_OPTION_LINE_3,Je dois monter tout de suite.
+INFECTION_OPTION_LINE_30,Je dois en finir. Vers le haut.
+INFECTION_OPTION_LINE_31,Mon pied. Je dois suivre mon pied. Monter. Monter.
+INFECTION_OPTION_LINE_32,Je ne peux pas attendre. Je dois monter maintenant.
+INFECTION_OPTION_LINE_33,La porte du toit. Est-ce qu'elle est ouverte. Je dois sortir.
+INFECTION_OPTION_LINE_34,Je dois être au sommet. Je ne sais pas pourquoi. Je dois y être.
+INFECTION_OPTION_LINE_35,Je dois dépasser cet étage tout de suite.
+INFECTION_OPTION_LINE_36,J'y suis presque. Je dois continuer.
+INFECTION_OPTION_LINE_37,Monter. Juste monter. Je dois y aller.
+INFECTION_OPTION_LINE_38,"Quelque chose me tire, et ça tire vers le haut."
+INFECTION_OPTION_LINE_39,Il me faut les escaliers. Maintenant.
+INFECTION_OPTION_LINE_4,Comment je monte sur le toit.
+INFECTION_OPTION_LINE_40,Je tiens plus en place. Je dois aller plus haut.
+INFECTION_OPTION_LINE_41,Le toit. Maintenant. Il me faut le toit maintenant.
+INFECTION_OPTION_LINE_42,Je dois y aller. Je sens où.
+INFECTION_OPTION_LINE_43,Je ne veux pas être ici. Je dois être plus haut.
+INFECTION_OPTION_LINE_44,Je dois grimper. Je dois finir de grimper.
+INFECTION_OPTION_LINE_45,La cage d'escalier. Où.
+INFECTION_OPTION_LINE_46,Je dois monter avant que ce soit fini.
+INFECTION_OPTION_LINE_47,Je dois être plus haut quand ça arrivera.
+INFECTION_OPTION_LINE_48,Le sommet de cet immeuble. Maintenant.
+INFECTION_OPTION_LINE_49,Je dois y aller. Je sens où je dois aller.
+INFECTION_OPTION_LINE_5,Je dois partir. Vers le haut.
+INFECTION_OPTION_LINE_50,Je dois aller sur le toit. C'est tout. Juste le toit.
+INFECTION_OPTION_LINE_51,En haut. C'est là que je dois être.
+INFECTION_OPTION_LINE_52,Je le sens. Ça monte.
+INFECTION_OPTION_LINE_53,Je dois y aller. Quelque chose doit se terminer là-haut.
+INFECTION_OPTION_LINE_54,Les escaliers. Par où.
+INFECTION_OPTION_LINE_55,Je dois être au sommet avant qu'il en ait fini avec moi.
+INFECTION_OPTION_LINE_56,Ça doit se terminer au sommet. Je dois y arriver.
+INFECTION_OPTION_LINE_57,Je ne peux pas m'arrêter. Mon pied m'en empêche.
+INFECTION_OPTION_LINE_58,Je dois aller plus haut. Tout de suite.
+INFECTION_OPTION_LINE_59,Le toit. Je dois atteindre le toit.
+INFECTION_OPTION_LINE_6,Les escaliers. Où sont les escaliers.
+INFECTION_OPTION_LINE_60,Je dois être au-dessus de ça. De tout ça.
+INFECTION_OPTION_LINE_61,Mon pied sait. Je dois le suivre.
+INFECTION_OPTION_LINE_7,Je ne peux pas rester ici.
+INFECTION_OPTION_LINE_8,Je dois aller plus haut.
+INFECTION_OPTION_LINE_9,Monter. Je dois monter.
+INFECTION_RESPONSE_LINE_1,Vas-y. Maintenant. Les escaliers sont juste là.
+INFECTION_RESPONSE_LINE_10,L'appel est bien réel. Arrête de l'ignorer.
+INFECTION_RESPONSE_LINE_11,Monte. Tu n'as pas le temps d'hésiter.
+INFECTION_RESPONSE_LINE_12,Tu le sens. Ça suffit. Bouge.
+INFECTION_RESPONSE_LINE_13,"Le sommet t'attend et toi, tu restes planté là."
+INFECTION_RESPONSE_LINE_14,Vas-y. Maintenant. Tant que tu le peux encore.
+INFECTION_RESPONSE_LINE_15,Tu y es presque. Ne gâche pas tout en restant là.
+INFECTION_RESPONSE_LINE_16,Monte. C'est aussi simple que ça. Pourquoi tu es encore là.
+INFECTION_RESPONSE_LINE_17,Chaque seconde passée en bas est une seconde que tu n'as pas.
+INFECTION_RESPONSE_LINE_18,Fais-lui confiance. Vas-y. Arrête de réfléchir.
+INFECTION_RESPONSE_LINE_19,Le toit est ouvert. Pas toi.
+INFECTION_RESPONSE_LINE_2,Tu perds ton temps. Bouge.
+INFECTION_RESPONSE_LINE_20,Tu es si près. Arrête de parler. Bouge.
+INFECTION_RESPONSE_LINE_21,Monte. L'immeuble attend.
+INFECTION_RESPONSE_LINE_22,Tu connais le chemin. Tu l'as toujours connu.
+INFECTION_RESPONSE_LINE_23,Ce n'est pas à cet étage que tu dois t'arrêter.
+INFECTION_RESPONSE_LINE_24,Les escaliers. Prends-les. Maintenant.
+INFECTION_RESPONSE_LINE_25,Tu gaspilles ici ce qui reste de toi.
+INFECTION_RESPONSE_LINE_26,Va plus haut. Tout ce qui est en bas a déjà disparu.
+INFECTION_RESPONSE_LINE_27,Bouge. Monte. Ne t'arrête pas avant d'y être.
+INFECTION_RESPONSE_LINE_28,Tu sens que ça s'achève. Ne le fais pas attendre.
+INFECTION_RESPONSE_LINE_29,Le sommet est à toi. Va le prendre.
+INFECTION_RESPONSE_LINE_3,Oui. Vas-y. Ne te retourne pas.
+INFECTION_RESPONSE_LINE_30,Arrête de respirer l'air d'en bas. Monte.
+INFECTION_RESPONSE_LINE_31,Rien ici ne peut te donner ce qui t'attend là-haut.
+INFECTION_RESPONSE_LINE_32,Vas-y. La pulsion a été patiente. Ne la fais pas attendre.
+INFECTION_RESPONSE_LINE_4,Le toit. Vas-y. Maintenant.
+INFECTION_RESPONSE_LINE_5,Tu es trop près pour t'arrêter. Continue d'avancer.
+INFECTION_RESPONSE_LINE_6,Ne t'arrête pas ici. Tu le regretteras.
+INFECTION_RESPONSE_LINE_7,Monte. C'est tout. Contente-toi de monter.
+INFECTION_RESPONSE_LINE_8,Tu sais où tu dois être. Vas-y.
+INFECTION_RESPONSE_LINE_9,Arrête d'attendre. Les escaliers sont juste là.
+INTRO_SENTENCE_1,D'étranges rêves t'arrachent à une mauvaise nuit.
+INTRO_SENTENCE_2,"
+Ton pied gauche te démange violemment."
+INTRO_SENTENCE_3,"Entre le quatrième et le cinquième orteil, un champignon te dévore la chair."
+INTRO_SENTENCE_4,"Il faut le soigner, tout de suite !"
+INTRO_SENTENCE_5,"Mais ça n'a presque plus d'importance.
+Il n'y a plus de place dans ta tête."
+INTRO_SENTENCE_6,"Il n'y a qu'une seule pensée.
+"
+INTRO_SENTENCE_7,"
+Un ordre qui palpite encore plus fort que ton pied."
+INTRO_SENTENCE_8,MONTE SUR LE TOIT.
+INTRO_SKIP_TEXT,pour passer.
+INTRO_START_BUTTON,MONTE MONTE MONTE
+INTRO_START_HINT,pour continuer
+ITEM_BAD_DRUGS_DESCR,Ce n'est pas de l'ibuprofène.
+ITEM_BAD_DRUGS_NAME,Le bon ibuprofène
+ITEM_BAG_OF_SHIT_DESCR,Juste une petite livraison... juste une petite livraison.
+ITEM_BAG_OF_SHIT_NAME,Sac chaud et puant
+ITEM_DOLLAR_DESCR,Encore loin d'être riche.
+ITEM_DOLLAR_NAME,Pièce d'un dollar
+ITEM_DRINK_ENERGY_DESCR,RAWBERRY TROPICAL DOUBLE SUPLEX. Goût bonbon fondu. Ça cogne comme une mule.
+ITEM_DRINK_ENERGY_NAME,RAWBERRY ENERGY
+ITEM_DRINK_MILK_DESCR,Un verre de lait frais. Rien de tel pour se rafraîchir.
+ITEM_DRINK_MILK_NAME,Verre de lait
+ITEM_DRINK_ROCA_COLA_DESCR,Rafraîchissant et énergisant. Paraît-il.
+ITEM_DRINK_ROCA_COLA_NAME,Roca Cola
+ITEM_DRINK_SELTZER_DESCR,Cette eau pétillante va être le truc le plus pur que t'auras avalé aujourd'hui.
+ITEM_DRINK_SELTZER_NAME,Canette d'eau gazeuse
+ITEM_ELEVATOR_FUSE_DESCR,Le concierge veut que je remplace le fusible grillé au sous-sol.
+ITEM_ELEVATOR_FUSE_NAME,Fusible d'ascenseur
+ITEM_ELEVATOR_KEY_DESCR,Cette clé déverrouille les étages de luxe dans l'ascenseur.
+ITEM_ELEVATOR_KEY_NAME,Clé d'ascenseur
+ITEM_FLASHLIGHT_DESCR,On dirait du matériel militaire... des années 60.
+ITEM_FLASHLIGHT_NAME,Lampe torche
+ITEM_FOOD_CHEF_CONFIT_DESCR,Une portion pour fourmis ! Peut contenir des fourmis.
+ITEM_FOOD_CHEF_CONFIT_NAME,Confit de spores fermentées
+ITEM_FOOD_CHEF_MOUSSE_DESCR,"La couleur, l'odeur, la texture. Tout est suspect, là-dedans."
+ITEM_FOOD_CHEF_MOUSSE_NAME,Mousse de mycélium affinée
+ITEM_FOOD_CHEF_RIBEYE_DESCR,Quand un steak maturé et un yaourt moisi font l'amour.
+ITEM_FOOD_CHEF_RIBEYE_NAME,Entrecôte décomposée de premier choix
+ITEM_FOOD_COOKIE_DESCR,"Waouh, il est blindé. Mais bon, il est minuscule."
+ITEM_FOOD_COOKIE_NAME,Petit cookie triple pépites de chocolat
+ITEM_FOOD_LAWYER_CAKE_DESCR,J'ai jamais aimé les trucs chics. Ça pue ! Et ça a des reflets dorés.
+ITEM_FOOD_LAWYER_CAKE_NAME,Tartelette des Spores Dorées
+ITEM_FOOD_NUTS_DESCR,"Super salées, super croquantes. L'odeur me donne la nausée, j'en ai JAMAIS goûté."
+ITEM_FOOD_NUTS_NAME,KRAZY Kraunchy Nutz
+ITEM_FOOD_PIZZA_SLICE_DESCR,Ça pue VRAIMENT le pourri. Y a plus de moisissure que de pizza. Je dois SURTOUT PAS manger ça.
+ITEM_FOOD_PIZZA_SLICE_NAME,Part de pizza moisie
+ITEM_FOOD_SANDWICH_DESCR,Je crois qu'il me regarde avec ses petits yeux de moisissure. Je ne devrais SURTOUT PAS manger ça !
+ITEM_FOOD_SANDWICH_NAME,Croque-fromage moisi
+ITEM_FOOD_SNACKERS_BAR_DESCR,"Quand t'as faim, t'es plus toi-même."
+ITEM_FOOD_SNACKERS_BAR_NAME,Snackers Bar
+ITEM_HEAL_FUNGUS_LOTION_DESCR,Calme la brûlure et les démangeaisons.
+ITEM_HEAL_FUNGUS_LOTION_NAME,Lotion antifongique
+ITEM_HEAL_FUNGUS_LOTION_STRONG_DESCR,"Qualité hospitalière. Calme la brûlure, les démangeaisons et presque tout ce qu'il te reste d'optimisme."
+ITEM_HEAL_FUNGUS_LOTION_STRONG_NAME,"Pommade antifongique, classe III"
+ITEM_JUNK_AIR_FRESHENER_DEAD_DESCR,« Cherry Punch ». Il a perdu. L'immeuble a gagné.
+ITEM_JUNK_AIR_FRESHENER_DEAD_NAME,Désodorisant épuisé
+ITEM_JUNK_BIRTHDAY_CARD_DESCR,_get_birthday_card_text
+ITEM_JUNK_BIRTHDAY_CARD_NAME,Carte d'anniversaire
+ITEM_JUNK_BIRTHDAY_CARD_TEXT,"« Joyeux anniversaire Chaya ! T'es géniale ! %s, Dieter » ... des niaiseries romantiques."
+ITEM_JUNK_EMPTY_GLASS_DESCR,"C'est celui de la Vieille Dame, elle voudra peut-être le récupérer."
+ITEM_JUNK_EMPTY_GLASS_NAME,Un verre de lait vide
+ITEM_JUNK_FLYER_DESCR,La personne qui a écrit ça t'aime énormément. C'est bien là le problème.
+ITEM_JUNK_FLYER_NAME,Notre Petite Famille - Numéro 41
+ITEM_JUNK_FLYER_OLD_DESCR,Un bulletin de la communauté. La communauté en question n'a pas l'air d'exister. Signé Meredith.
+ITEM_JUNK_FLYER_OLD_NAME,Notre Petite Famille - Numéro 34
+ITEM_JUNK_FREDDY_DESCR,"Dans ses yeux, je vois briller le reflet de mes mauvaises décisions."
+ITEM_JUNK_FREDDY_NAME,Freddy Funko
+ITEM_JUNK_GPU_DESCR,Il y a écrit « Nshiddiya GeHorse 256 » au dos. Sûrement sans valeur.
+ITEM_JUNK_GPU_NAME,Vieille carte graphique
+ITEM_JUNK_MAGAZINE_DESCR,DERNIÈRE MINUTE : ceci est un déchet sans valeur.
+ITEM_JUNK_MAGAZINE_NAME,Vieux torchon à potins
+ITEM_JUNK_NEWSPAPER_DESCR,J'imagine mal quelqu'un s'intéresser à ça.
+ITEM_JUNK_NEWSPAPER_NAME,Vieux magazine
+ITEM_JUNK_PHONEBOOK_DESCR,Tout l'immeuble est dedans. Certains deux fois.
+ITEM_JUNK_PHONEBOOK_NAME,"Annuaire, 2009"
+ITEM_JUNK_RAM_DESCR,Il y a marqué 64 Go DDR5 sur l'étiquette. Ça a pas l'air de valoir grand-chose.
+ITEM_JUNK_RAM_NAME,Vieille barrette mémoire
+ITEM_JUNK_RECORD_1_DESCR,"La face B, c'est « Apprenez à dormir ». Toujours sous blister."
+ITEM_JUNK_RECORD_1_NAME,Vinyle - « Apprenez l'italien en dormant »
+ITEM_JUNK_RECORD_2_DESCR,Le sourire de Tonton Marv a été rayé avec une clé.
+ITEM_JUNK_RECORD_2_NAME,Disque pour enfants - « Chantons avec Tonton Marv »
+ITEM_JUNK_RECORD_3_DESCR,"Quelqu'un a barré le printemps, l'été et l'automne sur la liste des morceaux."
+ITEM_JUNK_RECORD_3_NAME,Vinyle - « Vivaldi : Les Quatre Saisons »
+ITEM_JUNK_SNOWGLOBE_DESCR,"L'eau à l'intérieur s'est troublée. Quelque chose y flotte, et ce n'est pas de la neige."
+ITEM_JUNK_SNOWGLOBE_NAME,Boule à neige
+ITEM_JUNK_TV_GUIDE_DESCR,C'est un miracle que ça s'imprime encore.
+ITEM_JUNK_TV_GUIDE_NAME,Vieux programme télé
+ITEM_LAWYER_LETTER_DESCR,Pleine de § et de $. Ça a l'air menaçant.
+ITEM_LAWYER_LETTER_NAME,Lettre de l'avocat
+ITEM_MEMORY_FOTO_DESCR,"Surexposé. Sous-développé. Oui, c'est bien moi."
+ITEM_MEMORY_FOTO_NAME,Photos de moi
+ITEM_NEWSPAPER_DESCR,Il date de six semaines. Il empeste le tabac froid.
+ITEM_NEWSPAPER_NAME,Journal
+ITEM_OLD_LADY_NOTE_DESCR,Un mot dans une enveloppe. Je dois le glisser sous la porte et frapper.
+ITEM_OLD_LADY_NOTE_NAME,Mot pour le 9e étage
+ITEM_REBOUGHT_RAM_DESCR,"Il y a marqué 64 Go DDR5 sur l'étiquette, pile ce que KRNL voulait."
+ITEM_REBOUGHT_RAM_NAME,Barrette mémoire
+ITEM_ROOFTOP_KEY_DESCR,Je sens déjà l'air frais !
+ITEM_ROOFTOP_KEY_NAME,Clé de la porte du toit
+ITEM_USABLE_TV_REMOTE_DESCR,"Pour une télé Soonee. Allume, éteint. Et change de chaîne."
+ITEM_USABLE_TV_REMOTE_NAME,Télécommande
+KEY_REBIND_BACK,Reculer
+KEY_REBIND_FWD,Avancer
+KEY_REBIND_GAMEPAD,Manette
+KEY_REBIND_GAMEPAD_DISCLAIMER,Déplacements et interaction non modifiables à la manette.
+KEY_REBIND_KEYBOARD,Clavier
+KEY_REBIND_LEFT,Aller à gauche
+KEY_REBIND_RESET_ALL,Tout réinitialiser
+KEY_REBIND_RIGHT,Aller à droite
+KNOCK_SENTENCE,"Frappe %s, pause, refrappe %s, pause, puis frappe encore %s."
+KNOCK_SENTENCE_MID,"frappes %s, pause, frappes %s, pause, et frappes encore %s"
+LANGUAGE_NAME,Français
+MAIN_MENU_BACK_TO_MAIN,Retour au menu principal
+MAIN_MENU_CONTENT_WARNING,"Lumières clignotantes et effets visuels : déconseillé aux personnes souffrant d'épilepsie photosensible.
+
+Aborde des thèmes comme le suicide, la détresse psychologique et d'autres contenus perturbants.
+
+Public averti. Arrête de jouer si tu ne te sens pas bien."
+MAIN_MENU_CONTENT_WARNING_TITLE,AVERTISSEMENT
+MAIN_MENU_CONTENT_WARNING_UNDERSTOOD,Compris.
+MAIN_MENU_CONTINUE_GAME,Poursuivre l'ascension
+MAIN_MENU_CREDITS,Crédits
+MAIN_MENU_EXIT,Quitter le jeu
+MAIN_MENU_GAME_MODE_HARDCORE,Brutal 
+MAIN_MENU_GAME_MODE_HARDCORE_DESCR,"Si tu as fini le mode Infecté et que tu cherches de nouveaux défis.
+
+La survie est rude, butin et voisins sont aléatoires, fini les raccourcis."
+MAIN_MENU_GAME_MODE_HARDCORE_SUB,Mode de jeu difficile
+MAIN_MENU_GAME_MODE_INFECTED,Infecté
+MAIN_MENU_GAME_MODE_INFECTED_DESCR,"Choisis ce mode pour vivre l'expérience telle qu'elle a été pensée.
+
+Mourir et apprendre en font partie."
+MAIN_MENU_GAME_MODE_INFECTED_SUB,Mode de jeu recommandé
+MAIN_MENU_GAME_MODE_STORY,Histoire
+MAIN_MENU_GAME_MODE_STORY_DESCR,"Le mode Histoire peut appauvrir l'expérience de jeu.
+
+Tes besoins augmentent bien plus lentement, et tu peux sauvegarder et reprendre à certains points de contrôle."
+MAIN_MENU_GAME_MODE_STORY_SUB,Mode de jeu plus facile
+MAIN_MENU_GAME_MODE_TEXT_BRUTAL,Mode Brutal
+MAIN_MENU_GAME_MODE_TEXT_INFECTED,Mode Infecté
+MAIN_MENU_GAME_MODE_TEXT_STORY,Mode Histoire
+MAIN_MENU_GAME_MODE_TITLE,Choisis un mode
+MAIN_MENU_GENERIC_CANCEL,Annuler
+MAIN_MENU_PAUSED,- PAUSE -
+MAIN_MENU_POPUP_LEAVE_GAME_DESCR,Tu pourras reprendre plus tard.
+MAIN_MENU_POPUP_LEAVE_GAME_TITLE,RETOUR AU MENU PRINCIPAL ?
+MAIN_MENU_POPUP_QUIT_BUTTON_EXIT,Quitter le jeu
+MAIN_MENU_POPUP_QUIT_BUTTON_UP,MONTE ! MONTE ! MONTE !
+MAIN_MENU_POPUP_QUIT_FEEDBACK,Ce serait génial si tu pouvais me donner ton avis !
+MAIN_MENU_POPUP_QUIT_FEEDBACK_BUTTON,Donner mon avis
+MAIN_MENU_POPUP_QUIT_MESSAGE,"Tu veux vraiment quitter ?
+Tu dois MONTER !"
+MAIN_MENU_POPUP_QUIT_TITLE,QUITTER LE JEU ?
+MAIN_MENU_POPUP_RESTART_BUTTON_CANCEL,Annuler
+MAIN_MENU_POPUP_RESTART_BUTTON_OK,Recommencer
+MAIN_MENU_POPUP_RESTART_MESSAGE,Tu vas perdre ta progression actuelle.
+MAIN_MENU_POPUP_RESTART_TITLE,RECOMMENCER LA PARTIE ?
+MAIN_MENU_RESTART,Recommencer
+MAIN_MENU_RESUME,Reprendre
+MAIN_MENU_SAVE_TEXT_NOT_SAVED,Aucune sauvegarde pour cette partie.
+MAIN_MENU_SAVE_TEXT_ONE_SECOND,Dernière sauvegarde auto il y a une seconde.
+MAIN_MENU_SAVE_TEXT_X_MINUTES,Dernière sauvegarde auto il y a %d:%02d.
+MAIN_MENU_SAVE_TEXT_X_SECONDS,Dernière sauvegarde auto il y a %d secondes.
+MAIN_MENU_SETTINGS,Paramètres
+MAIN_MENU_START_GAME,MONTE !
+NEW_ACHIEVEMENT_1_0_DESC,Tu as accepté l'aide de Linda.
+NEW_ACHIEVEMENT_1_0_NAME,Séquesthé
+NEW_ACHIEVEMENT_1_10_DESC,Trouve le code de frappe secret sans aide.
+NEW_ACHIEVEMENT_1_10_NAME,L'Énigme pour les Nuls
+NEW_ACHIEVEMENT_1_11_DESC,"Tu as fait chanter un de tes voisins. Enfin, si c'en est un."
+NEW_ACHIEVEMENT_1_11_NAME,Petit diable sur l'épaule
+NEW_ACHIEVEMENT_1_12_DESC,Tu as confronté Linda à tes découvertes.
+NEW_ACHIEVEMENT_1_12_NAME,Amour fraternel
+NEW_ACHIEVEMENT_1_13_DESC,Tu as acheté un article au distributeur automatique.
+NEW_ACHIEVEMENT_1_13_NAME,Virée shopping
+NEW_ACHIEVEMENT_1_14_DESC,"Tu en sais plus sur la cause de l'infection, et tu sais que tu es un cas à part."
+NEW_ACHIEVEMENT_1_14_NAME,Patient zéro
+NEW_ACHIEVEMENT_1_15_DESC,Tu as découvert toutes les Idées.
+NEW_ACHIEVEMENT_1_15_NAME,Palais mental
+NEW_ACHIEVEMENT_1_16_DESC,"Tu es mort. Et pourtant, tu t'es réveillé."
+NEW_ACHIEVEMENT_1_16_NAME,Quel cauchemar...
+NEW_ACHIEVEMENT_1_17_DESC,Tu as atteint les étages intermédiaires. À mi-chemin !
+NEW_ACHIEVEMENT_1_17_NAME,Les étages intermédiaires
+NEW_ACHIEVEMENT_1_18_DESC,Tu as atteint les étages de luxe. Plus que quelques marches !
+NEW_ACHIEVEMENT_1_18_NAME,Les étages de luxe
+NEW_ACHIEVEMENT_1_19_DESC,Tu as atteint le toit. Enfin un peu d'air frais.
+NEW_ACHIEVEMENT_1_19_NAME,Monte sur le toit
+NEW_ACHIEVEMENT_1_1_DESC,Tu n'as pas su t'arrêter.
+NEW_ACHIEVEMENT_1_1_NAME,"T'as cherché, t'as trouvé"
+NEW_ACHIEVEMENT_1_20_DESC,Atteins la fin en mode Histoire.
+NEW_ACHIEVEMENT_1_20_NAME,Explorateur fongique
+NEW_ACHIEVEMENT_1_21_DESC,Atteins la fin en mode Infecté.
+NEW_ACHIEVEMENT_1_21_NAME,Moldrise
+NEW_ACHIEVEMENT_1_22_DESC,Tu as agi pour le bien commun.
+NEW_ACHIEVEMENT_1_22_NAME,Altruiste
+NEW_ACHIEVEMENT_1_2_DESC,Tu as mangé un truc à ne pas manger. Ton ventre n'a pas apprécié.
+NEW_ACHIEVEMENT_1_2_NAME,Violences entre moisissures
+NEW_ACHIEVEMENT_1_3_DESC,Tu t'es vengé d'une sale attaque.
+NEW_ACHIEVEMENT_1_3_NAME,Boup vengeur
+NEW_ACHIEVEMENT_1_4_DESC,"Ah, je vois que vous aussi, vous êtes un homme de culture."
+NEW_ACHIEVEMENT_1_4_NAME,Les grands esprits
+NEW_ACHIEVEMENT_1_5_DESC,Tu as échangé tant de cacahuètes avec Samson qu'il est gavé.
+NEW_ACHIEVEMENT_1_5_NAME,Glorieuse petite mule à sel
+NEW_ACHIEVEMENT_1_6_DESC,Tu as goûté au snack interdit et tes pupilles sont devenues grandes comme des soucoupes.
+NEW_ACHIEVEMENT_1_6_NAME,Chouette trip
+NEW_ACHIEVEMENT_1_7_DESC,Il t'a fait fleurir.
+NEW_ACHIEVEMENT_1_7_NAME,Ascension
+NEW_ACHIEVEMENT_1_8_DESC,Tu es monté jusqu'au toit sans adresser la parole à personne.
+NEW_ACHIEVEMENT_1_8_NAME,Motus et spores cousues
+NEW_ACHIEVEMENT_1_9_DESC,Entre dans les étages de luxe sans aide.
+NEW_ACHIEVEMENT_1_9_NAME,C'était écrit
+NUMBER_WORDS_1,une fois
+NUMBER_WORDS_2,deux fois
+NUMBER_WORDS_3,trois fois
+NUMBER_WORDS_4,quatre fois
+OUTRO_ENDING_1,Nous interrompons nos programmes
+OUTRO_ENDING_10,[Hors champ] Sarah ?
+OUTRO_ENDING_11,Pardon ?
+OUTRO_ENDING_12,"[Hors champ] Qu'est-ce qu'il a, ton pied ?"
+OUTRO_ENDING_2,pour un flash spécial.
+OUTRO_ENDING_3,Les autorités sanitaires confirment que l'épidémie fongique ne se limite plus 
+OUTRO_ENDING_4,aux personnes ayant consommé les KRAZY Kraunchy Nuts visées par le rappel.
+OUTRO_ENDING_5,"De nouvelles infections sont signalées dans tout le pays,"
+OUTRO_ENDING_6,sans aucun lien connu avec le produit contaminé.
+OUTRO_ENDING_7,Les autorités n'ont pas encore identifié le mode de propagation du champignon.
+OUTRO_ENDING_8,"La population est priée de garder son calme, de rester chez elle"
+OUTRO_ENDING_9,et d'attendre de nouvelles instructions.
+OUTRO_ENDING_FOOD_FOR_THOUGHT_1,"Combien de tes décisions
+étaient d'abord l'idée de quelqu'un d'autre ?"
+OUTRO_ENDING_FOOD_FOR_THOUGHT_2,"Et combien sont devenues les tiennes
+sans que tu t'en rendes compte ?"
+OUTRO_ENDING_THANK_YOU_FOR_PLAYING,Merci d'avoir joué.
+PLAYER_LINE_ALMOST_MADE_IT,J'y suis presque !
+PLAYER_LINE_BEDROOM_DOOR,On dirait que c'est fermé à clé.
+PLAYER_LINE_BOOP,Boup
+PLAYER_LINE_BOOP2,Bien fait pour toi.
+PLAYER_LINE_BROTHER_DOOR,C'est vraiment glauque...
+PLAYER_LINE_BUILDING_EXIT_DOOR_FOOT,MON PIED ! J'AI TELLEMENT MAL !
+PLAYER_LINE_CHEF_FOOD1_1,Oh là là...
+PLAYER_LINE_CHEF_FOOD1_2,...je ne pourrai plus jamais rien manger d'autre !
+PLAYER_LINE_CHEF_FOOD2_1,Ça...
+PLAYER_LINE_CHEF_FOOD2_2,...c'était VRAIMENT BON !
+PLAYER_LINE_CHEF_FOOD3_1,Bon sang...
+PLAYER_LINE_CHEF_FOOD3_2,...c'est le MEILLEUR TRUC DU MONDE !
+PLAYER_LINE_COMMENTED_ON_BROKEN_ELEVATOR,L'ascenseur est encore en panne.
+PLAYER_LINE_COMMENTED_ON_CREEPY_FOIL,"Tiens, c'était pas là hier... Qu'est-ce qui s'est passé ?"
+PLAYER_LINE_DEFECTOR_DOOR1,Personne ne répond.
+PLAYER_LINE_DEFECTOR_DOOR2,Kernel m'a arnaqué ! Petite merde...
+PLAYER_LINE_ELEVATOR1,PUTAIN !
+PLAYER_LINE_ELEVATOR2,QUOI ?! ENCORE ?
+PLAYER_LINE_ELEVATOR_KEY,Je n'ai pas cette clé.
+PLAYER_LINE_ELEVATOR_PREM_FLOORS,Les étages de luxe. Bande d'enfoirés de riches.
+PLAYER_LINE_ELEVATOR_PREM_KEY,Il me faut la bonne clé !
+PLAYER_LINE_EMPTY_APP_DOOR1,"Tiens, c'était ouvert."
+PLAYER_LINE_EMPTY_APP_DOOR2,Il y a un truc qui cloche.
+PLAYER_LINE_EXIT_DOOR,Je dois monter sur le toit ! Pas sortir dans la rue !
+PLAYER_LINE_FOUND_BROKEN_STAIRS,Qu'est-ce qui s'est passé ici ? C'est un cul-de-sac.
+PLAYER_LINE_FUSE_BOX1,On dirait qu'il manque un fusible.
+PLAYER_LINE_FUSE_BOX2,Ça devrait réparer l'ascenseur !
+PLAYER_LINE_MAILBOX_SHIT_BAG,"Cette puanteur... qu'est-ce qu'il a bouffé, ce type ???"
+PLAYER_LINE_MOLD_DEATH,MON VENTRE ! IL GONFLE !!!
+PLAYER_LINE_NEED_DOLLAR,Il me faut une pièce d'un dollar.
+PLAYER_LINE_NUTS1,Franchement dégueulasse !
+PLAYER_LINE_NUTS2,Je comprends pourquoi j'en avais jamais goûté.
+PLAYER_LINE_OWN_DOOR1,Faut croire que je suis pas chez moi.
+PLAYER_LINE_OWN_DOOR2,C'est pas en frappant à ma propre porte que je vais monter sur le toit...
+PLAYER_LINE_OWN_DOOR3,Faut que je continue.
+PLAYER_LINE_ROOFDOOR_LOCKED1,PUTAIN ! C'est fermé à clé !
+PLAYER_LINE_ROOFDOOR_LOCKED2,Qui a la clé ?
+PLAYER_LINE_ROOFDOOR_LOCKED3,Il me faut cette putain de CLÉ !
+PLAYER_LINE_ROOFDOOR_LOCKED4,PUTAIN DE MERDE !!
+PLAYER_LINE_ROOFDOOR_OPEN,Enfin un peu d'air frais.
+PLAYER_LINE_SHROOM_ZOMBIE1,Hé. Ça va ?
+PLAYER_LINE_SHROOM_ZOMBIE2,"Je crois pas, non."
+PLAYER_LINE_SOMEONE_HAS_BAD_DAY,Quelqu'un passe une [shake]trèèès mauvaise[/shake] journée.
+PLAYER_LINE_STEPPED_ON_REMOTE,J'ai marché sur la télécommande. Génial.
+PLAYER_LINE_TOILET_DOOR,Impossible d'ouvrir ça.
+PLAYER_LINE_TUT_DRINK,J'ai la gorge sèche comme un vieux tapis ! Faut que je boive un coup.
+PLAYER_LINE_TUT_FOOD,Je crève de faim ! Il faut que je mange quelque chose !
+PLAYER_LINE_TUT_FOOT,Mon pied empire de plus en plus ! Il faut que je fasse quelque chose !
+PLAYER_UI_DEATH_SCREEN_HINT_LOAD,pour charger le souvenir
+PLAYER_UI_DEATH_SCREEN_HINT_RESTART,pour recommencer
+PLAYER_UI_DEATH_SCREEN_LOAD,Un flash me revient...
+PLAYER_UI_DEATH_SCREEN_RETRY,Quel cauchemar...
+PLAYER_UI_DEATH_SCREEN_YOU_DIED,TU ES MORT
+PLAYER_UI_GENERAL_HOLD,Maintiens
+PLAYER_UI_GENERAL_PRESS,Appuie sur
+PLAYER_UI_GENERIC_CLOSE,Fermer
+PLAYER_UI_HUNGER,Faim
+PLAYER_UI_IDEAS,Idées
+PLAYER_UI_IDEAS_EMPTY,"Il n'y a rien.
+Le vide absolu."
+PLAYER_UI_INFECTION,Infection
+PLAYER_UI_LOST,Perdu :
+PLAYER_UI_POCKETS,TES POCHES
+PLAYER_UI_POCKETS_EMPTY,Un vide béant.
+PLAYER_UI_RECEIVED,Reçu :
+PLAYER_UI_RUMMAGING, Fouille...
+PLAYER_UI_RUMMAGING_EMPTY,Vide
+PLAYER_UI_SHOP_END_TRADE,Terminer l'échange
+PLAYER_UI_SHOP_HEADLINE,ÉCHANGE AVEC
+PLAYER_UI_SHOP_MONEY,Tu as 
+PLAYER_UI_SHOP_NOTHING,Rien
+PLAYER_UI_SHOP_NOTHING_OFFER,Tu n'as rien d'intéressant à proposer.
+PLAYER_UI_SHOP_THEY_BUY,TU VENDS
+PLAYER_UI_SHOP_THEY_SELL,ON TE PROPOSE
+PLAYER_UI_SOLD,Vendu :
+PLAYER_UI_TAKE,Prendre
+PLAYER_UI_TAKE_ALL,Tout prendre
+PLAYER_UI_THIRST,Soif
+PLAYER_UI_USE,Utiliser
+PLAYER_UI_USED,Utilisé :
+PLAYER_UI_YOU_DIALOG,Toi
+SETTINGS_ACCEPT_BUTTON,Valider
+SETTINGS_AUDIO,Audio
+SETTINGS_AUDIO_DIALOG_VOL,Volume des dialogues
+SETTINGS_AUDIO_MASTER_VOL,Volume général
+SETTINGS_AUDIO_MUSIC_VOL,Volume de la musique
+SETTINGS_AUDIO_SFX_VOL,Volume des effets
+SETTINGS_CAMERA_MOVEMENT_OPTIONS,Mouvements de caméra
+SETTINGS_CONTROLS,Commandes
+SETTINGS_DELETE_BUTTON,Effacer
+SETTINGS_DELETE_BUTTON_CONFIRM,Confirmer
+SETTINGS_DELETE_PERM_CONFIRM,Appuie à nouveau pour confirmer
+SETTINGS_DELETE_PERM_DESCR,"Efface : les Idées, les choix de dialogue marqués comme vus et les tutoriels.
+Ne réinitialise pas le compteur de morts."
+SETTINGS_DELETE_PERM_SAVE,Effacer les données permanentes
+SETTINGS_GAMEPAD_LOOK,Visée à la manette
+SETTINGS_GAMEPAD_RUMBLE,Vibrations de la manette
+SETTINGS_GENERAL,Général
+SETTINGS_GRAPHICS,Graphismes
+SETTINGS_GRAPHICS_ADAPTIVE,Adaptatif
+SETTINGS_GRAPHICS_BRIGHTNESS,Luminosité
+SETTINGS_GRAPHICS_FPS_LIMIT,Limite d'IPS
+SETTINGS_GRAPHICS_FULLSCREEN,Plein écran
+SETTINGS_GRAPHICS_FULLSCREEN_EXKL,Plein écran excl.
+SETTINGS_GRAPHICS_SCREEN,Écran
+SETTINGS_GRAPHICS_SCREEN_NR,Écran %s
+SETTINGS_GRAPHICS_VSYNC,VSync
+SETTINGS_GRAPHICS_WINDOWED,Fenêtré
+SETTINGS_GRAPHICS_WINDOW_MODE,Mode d'affichage
+SETTINGS_HEADBOB_AMOUNT,Balancement de la tête
+SETTINGS_HEADROLL,Inclinaison
+SETTINGS_HEADROLL_DESCR,Tourner la tête de gauche à droite incline légèrement la caméra.
+SETTINGS_INVERTED,Inversé
+SETTINGS_INVERT_LOOK,Inverser l'axe vertical
+SETTINGS_LANGUAGE,Langue
+SETTINGS_MOUSE_SENSITIVITY,Sensibilité de la souris
+SETTINGS_MUTED,Coupé
+SETTINGS_OFF,Désactivé
+SETTINGS_ON,Activé
+SETTINGS_SCREENSHAKE,Tremblement de l'écran
+SETTINGS_SPRINT_TOGGLE,Course en mode bascule (clavier)
+SETTINGS_TITLE,PARAMÈTRES
+SHOP_CHEF_DESCR,Nourriture et ingrédients. À différents stades de décomposition.
+SHOP_CHEF_NAME,Chef Bronson
+SHOP_DOLLAR_STRING_MANY,%d pièces d'un dollar
+SHOP_DOLLAR_STRING_NONE,aucune pièce d'un dollar
+SHOP_DOLLAR_STRING_ONE,une pièce d'un dollar
+SHOP_NURSE_DESCR,Des médicaments hors de prix. L'offre et la demande...
+SHOP_NURSE_NAME,Infirmière Betty
+SHOP_OLD_LADY_DESCR,S'intéresse surtout aux vieilleries et à tout ce qu'elle peut entasser.
+SHOP_OLD_LADY_NAME,La Vieille Dame
+SHOP_VENDING_1_NAME,Distributeur automatique
+SHOP_VENDING_2_NAME,Distributeur automatique
+SHOP_VENDING_MACHINE_EMPTY,[Vide]
+SHOP_VENDING_MACHINE_LEFT,[%d en stock]
+TUTORIALS_CHECK_IDEAS_AFTER_HINT,pour les consulter.
+TUTORIALS_CHECK_IDEAS_EXTRA,Il y a peut-être quelque chose d'utile ?
+TUTORIALS_CHECK_IDEAS_TITLE,Réfléchis à tes Idées
+TUTORIALS_FLASHLIGHT_TEXT_AFTER_HINT,pour l'utiliser.
+TUTORIALS_FLASHLIGHT_TITLE,Lampe torche
+TUTORIALS_IDEAS_EXTRA,Les Idées restent pour toujours.
+TUTORIALS_IDEAS_TEXT_AFTER_HINT,pour la voir.
+TUTORIALS_IDEAS_TITLE,Tu as eu une Idée !
+TUTORIALS_MARKED_RESPONSE_TEXT,Ceci marque les réponses que tu as déjà données.
+TUTORIALS_MARKED_RESPONSE_TITLE,Déjà-vu
+ZONE_NAME_MIDDLE,Les étages intermédiaires
+ZONE_NAME_PREMIUM,Les étages de luxe

@@ -1,0 +1,138 @@
+keys,fr
+D_BROTHER_START_DIALOG_1,[font_size=60][b][shake]ATTENDS - ATTENDS ATTENDS ATTENDS NE T'EN VA PAS.[/shake][/b][/font_size]
+D_BROTHER_START_DIALOG_10,"[i]Tu crois ?[/i]
+J'ai crié dans la cage d'escalier. Toutes les nuits.
+Quelqu'un dans cet immeuble m'a entendu. [b]Quelqu'un[/b] m'a forcément entendu.
+[i]C'était toi ?[/i]"
+D_BROTHER_START_DIALOG_11,"Non.
+Non, tu serais venu."
+D_BROTHER_START_DIALOG_12,"[font_size=60][b][shake]ATTENDS ATTENDS ATTENDS
+NE REPARS PAS.[/shake][/b][/font_size]
+J'ai dit une bêtise ?"
+D_BROTHER_START_DIALOG_13,"[font_size=60][b][shake]ATTENDS ATTENDS ATTENDS
+NE REPARS PAS.[/shake][/b][/font_size]
+J'ai dit une bêtise ?"
+D_BROTHER_START_DIALOG_14,POURQUOI POURQUOI - QU'EST-CE QUE ÇA PEUT FAIRE ?
+D_BROTHER_START_DIALOG_15,"[i]Pardon.[/i]
+Pardon. Je suis - t'es la première personne depuis six jours.
+Parce que je n'arrêtais pas de me réveiller dans l'escalier. Pieds nus. Deux heures et demie du matin, en train de monter. Ça a commencé juste après que j'ai chopé une mycose au pied.
+Pas de rêve, aucun souvenir de marcher, rien. Je décide d'aller me coucher et d'un coup je suis dans l'escalier, et entre les deux, il n'y a rien.
+Ce n'est pas du somnambulisme. J'ai cette envie même quand je suis réveillé. Je sens que ça vient du pied. [shake]Ce n'est PAS une mycose.[/shake] Trois fois. [i]Du moins, à sa connaissance.[/i]
+[b]Et j'ai levé le pied pour elle.[/b] Je l'ai levé pour qu'elle puisse me l'attacher. Ses mains tremblaient. J'ai dû rester immobile.
+Donc elle avait raison. [i]Elle avait raison[/i], complètement raison, et elle a dit jeudi, et ça fait [b]six jours[/b]."
+D_BROTHER_START_DIALOG_16,"Descends voir Linda. 13e étage.
+[b]Dis-lui que je suis désolé[/b] - pour ce que j'ai bien pu faire pour qu'elle revienne pas."
+D_BROTHER_START_DIALOG_17,"Non, elle va... elle est juste...
+[b]Pardon, tu peux répéter ?[/b]"
+D_BROTHER_START_DIALOG_18,"Oh.
+[b]Oh, Dieu merci.[/b]
+Parce que je m'étais convaincu qu'elle avait pris sa décision. J'avais tout imaginé. Qu'elle s'était assise, qu'elle avait bien réfléchi et qu'elle s'était dit : c'est plus propre comme ça.
+[b]Six jours à penser ça.[/b]"
+D_BROTHER_START_DIALOG_19,[font_size=60]ELLE EST TOUJOURS EN BAS ![/font_size]
+D_BROTHER_START_DIALOG_2,"Dis quelque chose. Dis quelque chose, que je sache. Dis un mot."
+D_BROTHER_START_DIALOG_20,"…Avant mardi.
+Elle savait. Quand elle est montée ici. Elle savait que l'ascenseur était en panne."
+D_BROTHER_START_DIALOG_21,"Elle s'est d'abord procuré les menottes. Puis elle est montée avec, dans un sac, [i]en sachant que personne ne pourrait remonter.[/i]
+Et elle a dit jeudi. [i]Pourquoi dire jeudi ?[/i]
+[shake][b]Elle l'a dit pour que je lève le pied.[/b][/shake]
+Je pense pas ce que je dis.
+[i]Pardon.[/i] Ça me prend et je n'arrive pas à -"
+D_BROTHER_START_DIALOG_22,"J'ai arrêté d'y penser. J'étais inquiet. Une amputation ?
+Mais maintenant que la douleur s'est arrêtée, on dirait que -
+[shake][b]JE NE VEUX PAS EN PARLER ![/b][/shake]
+Et puis ce... somnambulisme. Je ferme les yeux et quand je les rouvre, je suis ailleurs.
+Une fois, je me suis réveillé debout devant la grille des étages de luxe, encore agrippé aux barreaux.
+Puis un vieux type bizarre s'est approché de moi.
+Il m'a dit que j'étais béni. [i]Que je m'élevais[/i]. Il m'a dit de venir le retrouver au [b]14e étage[/b]. Vraiment flippant."
+D_BROTHER_START_DIALOG_23,MERCI ! MERCI !
+D_BROTHER_START_DIALOG_24,[shake][b]DIS-LE.[/b][/shake]
+D_BROTHER_START_DIALOG_25,Jamais de la vie ! NON !
+D_BROTHER_START_DIALOG_26,"[font_size=60][b][shake]LINDA ? LINDA, PITIÉ ! JE NE LE PENSAIS PAS.[/shake][/b][/font_size]"
+D_BROTHER_START_DIALOG_27,"Linda ? [b]Enfin ![/b]
+[font_size=60][b][shake]OUVRE LA PORTE. JE VAIS BIEN ! LE PIED VA BIEN ![/shake][/b][/font_size]"
+D_BROTHER_START_DIALOG_28,"Tu - tu es revenu ! Tu lui as dit ?
+[shake]Pitié -[/shake] Pitié, dis-moi que oui."
+D_BROTHER_START_DIALOG_3,"Oh - [b]oh mon Dieu. Dieu merci ! T'es bien là.[/b] D'accord. T'es bien là, c'est -
+Non. Non, ça va, je suis juste - écoute. [b]Écoute-moi. [shake]Écoute.[/shake][/b]
+Je n'arrive pas à l'atteindre. Je n'arrive pas à atteindre la porte.
+[b][shake]J'ai tellement faim ![/shake][/b]"
+D_BROTHER_START_DIALOG_30,"Elle doit être folle d'inquiétude.
+J'ai été tellement injuste avec elle. Ici. Tout seul.
+Je me suis disputé avec elle pendant des heures. Je gagne à chaque fois.
+Ça fait combien de temps qu'il est en panne ?"
+D_BROTHER_START_DIALOG_31,[font_size=60][b][shake]ATTENDS - NE PARS PAS ![/shake][/b][/font_size]
+D_BROTHER_START_DIALOG_32,[font_size=60][b][shake]HÉ - T'ES ENCORE LÀ ? NE PARS PAS ! S'IL TE PLAÎT[/shake][/b][/font_size]
+D_BROTHER_START_DIALOG_33,"Non. Non, ne fais pas ça. Ne fais pas ça.
+Je viens d'avoir la meilleure nouvelle depuis six jours et tu vas me dire que t'es désolé et me faire craquer.
+Ça va. Tout va bien maintenant. Elle ne m'a pas abandonné. C'est la seule chose dont j'avais besoin et tu viens de me la donner."
+D_BROTHER_START_DIALOG_34,Tu vas revenir. Dis que tu vas revenir.
+D_BROTHER_START_DIALOG_35,Pardon. Bon Dieu. Pardon.
+D_BROTHER_START_DIALOG_36,Oh. D'accord. Tu lui as dit ?
+D_BROTHER_START_DIALOG_37,"[font_size=60][b][shake]POURQUOI.[/shake][/b][/font_size]
+POURQUOI ? Pourquoi tu me fais ça ? Je t'en supplie. Va la voir, s'il te plaît."
+D_BROTHER_START_DIALOG_38,"[font_size=60][b][shake]DIEU MERCI ![/shake][/b][/font_size]
+Merci infiniment, généreux inconnu. Maintenant, je n'ai plus qu'à attendre quelques minutes et elle sera là.
+.. Elle va venir, hein ? Bien sûr qu'elle va venir."
+D_BROTHER_START_DIALOG_39,"Oh, génial, merci infiniment ! [b]Merci. Merci. Merci.[/b]
+J'étais sûr que j'allais mourir ici. Enchaîné à un radiateur.
+Quelle triste façon de partir."
+D_BROTHER_START_DIALOG_4,Tu entends un cliquetis métallique.
+D_BROTHER_START_DIALOG_40,"Hé, parle-moi. T'es encore là ?
+Je ne t'entends plus.
+[font_size=50][b][shake]T'es encore LÀ ?[/shake][/b][/font_size]"
+D_BROTHER_START_DIALOG_41,"Non.
+[font_size=60][b][shake]Pourquoi tu me mens ![/shake][/b][/font_size]
+Tu as dit qu'elle n'aurait pas pu venir jusqu'ici !
+Elle ne me laisserait pas pourrir là !
+[font_size=60][b][shake]C'est ma sœur ![/shake][/b][/font_size]
+C'est ma sœur.
+[font_size=30]C'est ma sœur.[/font_size]
+[font_size=20]C'est ma sœur...[/font_size]"
+D_BROTHER_START_DIALOG_42,Tu ne le comprends plus. Tu n'entends plus que des sanglots et des gémissements.
+D_BROTHER_START_DIALOG_43,[font_size=60][b][shake]LAISSE-MOI TRANQUILLE ![/shake][/b][/font_size]
+D_BROTHER_START_DIALOG_44,"Linda ? Linda ! Enfin !
+C'est encore toi ? Juste toi ?
+Elle va sûrement arriver d'une minute à l'autre !"
+D_BROTHER_START_DIALOG_45,Elle n'est pas encore venue. Mais elle va sûrement arriver d'une minute à l'autre !
+D_BROTHER_START_DIALOG_5,"C'est MOI. C'est - je suis attaché avec des...
+[b]MENOTTES.[/b] Des menottes et une chaîne. Autour de ma cheville. Six jours. Six jours attaché à un radiateur, j'ai rien mangé depuis.
+Va chercher quelqu'un. N'importe qui.
+[font_size=60][b][shake]Pitié. Pitié, pitié, pitié -[/shake][/b][/font_size]"
+D_BROTHER_START_DIALOG_6,"Je t'ai entendu, je t'ai entendu, t'es juste là, t'es [b]JUSTE LÀ[/b] -"
+D_BROTHER_START_DIALOG_7,Ma sœur. C'est Linda qui a fait ça... ma propre sœur.
+D_BROTHER_START_DIALOG_8,"OUI. Oui. Oui, appelle-les, appelle -
+Non.
+Non, ne fais pas ça. Ne fais pas ça."
+D_BROTHER_START_DIALOG_9,"Ils l'emmèneraient.
+Elle irait en prison. Pour ça. Elle irait en prison pour ça alors qu'elle -
+Elle essayait de m'aider.
+[i]Redemande-moi demain.[/i]"
+D_BROTHER_START_OPT_10_1,Je suis désolé.
+D_BROTHER_START_OPT_10_2,Elle est toujours en bas.
+D_BROTHER_START_OPT_11_1,Quelques jours.
+D_BROTHER_START_OPT_12_1,Aucune idée.
+D_BROTHER_START_OPT_13_1,"Donc, c'est votre pied ?"
+D_BROTHER_START_OPT_13_2,Je vais prévenir Linda.
+D_BROTHER_START_OPT_13_3,Je dois partir.
+D_BROTHER_START_OPT_14_1,Quoi ? Vous y êtes allé ?
+D_BROTHER_START_OPT_15_1,Désolé. Je ne lui ai pas encore parlé.
+D_BROTHER_START_OPT_15_2,J'ai parlé à Linda.
+D_BROTHER_START_OPT_15_3,Elle va bientôt venir ! [Mentir]
+D_BROTHER_START_OPT_15_4,[Partir]
+D_BROTHER_START_OPT_16_1,C'est... juste moi.
+D_BROTHER_START_OPT_17_1,Je... ne crois pas qu'elle viendra.
+D_BROTHER_START_OPT_17_2,Elle va bientôt venir [Mentir]
+D_BROTHER_START_OPT_18_1,[Partir]
+D_BROTHER_START_OPT_1_1,...
+D_BROTHER_START_OPT_1_2,[Partir]
+D_BROTHER_START_OPT_2_1,Il y a quelqu'un ?
+D_BROTHER_START_OPT_3_1,"C'était quoi, ça ?"
+D_BROTHER_START_OPT_4_1,Qui vous a fait ça ?
+D_BROTHER_START_OPT_4_2,Je devrais appeler la police ?
+D_BROTHER_START_OPT_4_3,Quelqu'un va venir.
+D_BROTHER_START_OPT_4_4,[Ne rien dire et partir]
+D_BROTHER_START_OPT_5_1,Pourquoi ?
+D_BROTHER_START_OPT_6_1,Vous allez mourir là-dedans.
+D_BROTHER_START_OPT_7_1,Non.
+D_BROTHER_START_OPT_8_1,L'escalier est bloqué et l'ascenseur était en panne. Je viens de le réparer.
+D_BROTHER_START_OPT_9_1,Elle n'aurait jamais pu venir jusqu'ici.

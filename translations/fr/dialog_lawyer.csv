@@ -1,0 +1,92 @@
+keys,fr
+D_LAWYER_START_DIALOG_1,J'ai sorti des gens de situations à côté desquelles la vôtre passerait pour un simple PV de stationnement. Retenez mon nom.
+D_LAWYER_START_DIALOG_10,Vous savez où me trouver. Malheureusement.
+D_LAWYER_START_DIALOG_11,"Ah, ça ! C'est comme avec les gamins allergiques aux cacahuètes. On protège les gens au détriment du plaisir. Barbant."
+D_LAWYER_START_DIALOG_12,"Ça ne peut pas être si grave. C'est un en-cas, pas une arme biologique."
+D_LAWYER_START_DIALOG_13,Samson qui ?
+D_LAWYER_START_DIALOG_14,Quasi certainement.
+D_LAWYER_START_DIALOG_15,J'espère que celui qui a tagué ce [quest]graffiti au-dessus des boîtes aux lettres[/quest] est fier de lui. Vraiment. Un chef-d'œuvre de bêtise.
+D_LAWYER_START_DIALOG_16,"Pourquoi vous tenez tant à aller sur le toit ? En fait... attendez. C'est une issue de secours, et elle est fermée à clé !"
+D_LAWYER_START_DIALOG_17,"[b]On n'a pas le droit de verrouiller une issue de secours.[/b] NFPA 101, chapitre 7.
+Le concierge en a la charge, le concierge en répond. Personnellement. Il l'a sans doute même verrouillée lui-même.
+Ce n'est pas une zone grise, c'est la loi, point. Mais le savoir et s'en [i]servir[/i], ce sont deux choses différentes. [b]Il vous faut un papier[/b]."
+D_LAWYER_START_DIALOG_18,"Une lettre. Mon en-tête, la bonne référence juridique. Ce concierge la lira, la relira, et ensuite il [b]ouvrira la porte[/b]. Les gens plient toujours devant un papier officiel. Toujours."
+D_LAWYER_START_DIALOG_19,"Mes clients qui paient sont [i]à l'extérieur[/i] de cet immeuble, et c'est un problème que je réglerai plus tard. Pour l'instant, j'ai besoin de quelque chose qui se trouve [i]à l'intérieur[/i].
+[b]Ça vient de chez le Chef Bronson, au 16e.[/b] Je l'ai tiré d'une sale histoire de bail l'an dernier, et depuis, il me rembourse en petits plats. L'arrangement fonctionnait à merveille jusqu'ici. Mais il y a trois jours, [i]il a cessé de me faire monter ma commande[/i].
+Descendez voir ce qui se passe. [quest]Rapportez-moi sa Tartelette des Spores Dorées[/quest].
+Faites ça pour moi, et je vous rédigerai une lettre d'allure très officielle. Le genre de lettre qui poussera le concierge à sérieusement remettre en question ses choix de vie."
+D_LAWYER_START_DIALOG_2,"Ça, c'est entre mon médecin et moi. Médecin que je ne peux pas aller voir pour l'instant. À cause de mon pied. Voilà."
+D_LAWYER_START_DIALOG_20,"Comme vous voudrez. La porte reste ouverte si vous changez d'avis. Au sens figuré. Au sens propre aussi, d'ailleurs."
+D_LAWYER_START_DIALOG_21,Vous creusez votre tombe. Peut-être au sens propre.
+D_LAWYER_START_DIALOG_22,"Rien n'est gratuit en ce bas monde, pas même une infraction aux normes incendie qui joue en votre faveur. Je serai là. Allez-y."
+D_LAWYER_START_DIALOG_23,Je maintiens ce que j'ai dit. Mais je n'étais pas obligé de commencer par là.
+D_LAWYER_START_DIALOG_24,J'apprécie. Sincèrement. Vous avez de l'humour.
+D_LAWYER_START_DIALOG_25,"Sean Goldman. Je suis avocat, ce qui ne sert actuellement à rien, puisque mon pied me cloue ici comme un meuble hors de prix.
+Mais si jamais il vous faut un avocat, je suis là. [b]Désespérément disponible[/b]."
+D_LAWYER_START_DIALOG_26,Déjà de retour. Vous avez parlé au concierge ou vous êtes là pour me décevoir ?
+D_LAWYER_START_DIALOG_27,Dites-moi que vous m'avez apporté la [b]Tartelette des Spores Dorées[/b] de Bronson.
+D_LAWYER_START_DIALOG_28,Encore vous. Vous tombez bien ou vous m'apportez de mauvaises nouvelles ?
+D_LAWYER_START_DIALOG_29,"Évidemment. Cet homme est exaspérant jusqu'à la moelle, mais il n'est pas idiot."
+D_LAWYER_START_DIALOG_3,Et vous êtes quand même monté jusqu'ici ?
+D_LAWYER_START_DIALOG_30,"16e étage. Bronson. Quoi qu'il ait cuisiné, rapportez-le ici. Tout."
+D_LAWYER_START_DIALOG_31,"Oh, SÉRIEUSEMENT ? Mon pied me [i]tue[/i], je suis coincé dans cet appartement depuis trois jours, et vous... vous débarquez ici les mains vides, comme si je devais simplement l'[i]accepter ?[/i] Qu'est-ce que vous avez bien pu [b]FAIRE[/b], en bas ?"
+D_LAWYER_START_DIALOG_32,Sean prend une [shake]très longue[/shake] inspiration. Se pince l'arête du nez.
+D_LAWYER_START_DIALOG_33,"Ça va. Ça va, je vais bien, tout va bien. 16e étage. Bronson. Mon repas. S'il vous plaît. Allez-y."
+D_LAWYER_START_DIALOG_34,"Oh. [wave][i]Oh[/i], ça sent divinement bon.[/wave]"
+D_LAWYER_START_DIALOG_35,Il te la prend des mains avant que tu aies pu dire quoi que ce soit.
+D_LAWYER_START_DIALOG_36,"Je garde le reste pour plus tard. [i]Merci. Sincèrement.[/i] Cet homme joue dans une tout autre catégorie.
+Vous savez depuis combien de temps ça dure... ? [i]Vous savez[/i] depuis combien de temps ? Le silence. Enfin."
+D_LAWYER_START_DIALOG_37,Non. Absolument pas.
+D_LAWYER_START_DIALOG_38,Vous n'avez [i]pas idée.[/i]
+D_LAWYER_START_DIALOG_39,"Bien. Comme convenu : voici la lettre. La bonne référence, mon en-tête, son nom dessus. Montrez-la-lui bien lentement.
+Ne le laissez pas lire les petits caractères de trop près. Satisfait ou remboursé si ça ne marche pas. Enfin. Vous ne m'avez pas payé. Donc. Considérez ça comme un geste de bonne volonté."
+D_LAWYER_START_DIALOG_4,"Je vois. Bon, moi, j'ai juste une mycose du pied tout ce qu'il y a de plus normal. Une souche très agressive, mais rien de plus.
+Le Dr Lee, au 8e, m'a donné quelque chose. Du costaud. D'ici un jour ou deux, ce sera réglé."
+D_LAWYER_START_DIALOG_40,"Si vous avez encore besoin de quoi que ce soit, et je dis bien de quoi que ce soit, venez me trouver.
+Et apportez de l'argent la prochaine fois."
+D_LAWYER_START_DIALOG_41,"Il... Il vous l'a vendue ? Il faut que je digère ça un instant. Et que j'appelle Vlad plus tard. Oui, c'est bien elle. Donnez-la-moi."
+D_LAWYER_START_DIALOG_42,Mon service de livraison de repas préféré. Vous avez encore un problème juridique ?
+D_LAWYER_START_DIALOG_43,"Bon. Si jamais l'envie vous prend de repasser, venez avec un problème juridique et un peu d'argent."
+D_LAWYER_START_DIALOG_44,OK. Qu'est-ce qu'il y a ?
+D_LAWYER_START_DIALOG_45,N'est-ce pas ?
+D_LAWYER_START_DIALOG_5,"Secret professionnel, je ne peux pas entrer dans les détails. Ce que je [i]peux[/i] dire, c'est que quelqu'un au 16e m'est redevable, et qu'il me rembourse en repas tous plus extraordinaires les uns que les autres. Cet homme est un [i]artiste.[/i]"
+D_LAWYER_START_DIALOG_6,Bon sang. Pardon. C'était grossier. Mais quand même : vous allez bien ? Vous ressemblez au démon de mes paralysies du sommeil.
+D_LAWYER_START_DIALOG_7,"Ça me garde les pieds sur terre. Mes clients vivent dans une bulle. Ici, les gens ont de [i]vrais problèmes.[/i] Et puis, le distributeur a des KRAZY Kraunchy Nutz, et ça, on n'en trouve tout simplement plus nulle part."
+D_LAWYER_START_DIALOG_8,"Retirées de tous les rayons il y a environ six semaines. Les CDC ont repéré un problème dans la formule : [i]extrêmement addictive[/i], apparemment. Il y a aussi eu des rumeurs d'interactions avec des spores fongiques. Des mutations. Bref. Pas mon domaine."
+D_LAWYER_START_DIALOG_9,"Un homme sans exigences n'est qu'un type avec un diplôme de droit qui ne lui sert à rien. À ce propos... comment [i]vous[/i], vous êtes arrivé jusqu'ici ? Vous faites partie des [b]Gros Bonnets[/b], maintenant ?"
+D_LAWYER_START_OPT_10_1,Et en quoi ça m'aide ?
+D_LAWYER_START_OPT_11_1,Laissez-moi deviner : vous pouvez me fournir ça ?
+D_LAWYER_START_OPT_12_1,Je n'ai pas beaucoup d'argent pour vous payer.
+D_LAWYER_START_OPT_13_1,C'est ce truc doré et scintillant... là ? Je l'ai acheté à Bronson.
+D_LAWYER_START_OPT_13_2,"Ouais, bien sûr. Je l'avais vu venir."
+D_LAWYER_START_OPT_13_3,Je vais tenter ma chance sans la lettre.
+D_LAWYER_START_OPT_13_4,Je n'ai pas envie de faire ça.
+D_LAWYER_START_OPT_14_1,C'est la chose la plus gentille qu'on m'ait dite de la journée.
+D_LAWYER_START_OPT_14_2,"Pardon ? C'est quoi, ce bordel ?"
+D_LAWYER_START_OPT_15_1,Oui ! Je l'ai sur moi.
+D_LAWYER_START_OPT_15_2,Non. Pas pour l'instant.
+D_LAWYER_START_OPT_16_1,Vous venez de dire que vous entendez des voix ?
+D_LAWYER_START_OPT_16_2,"Eh ben, ça devait être bon !"
+D_LAWYER_START_OPT_17_1,Tenez.
+D_LAWYER_START_OPT_18_1,Non...
+D_LAWYER_START_OPT_1_1,J'ai parlé au concierge. Il m'a ri au nez !
+D_LAWYER_START_OPT_1_2,"J'ai changé d'avis, je vais le faire."
+D_LAWYER_START_OPT_1_3,La porte du toit est fermée à clé ! Il faut que je sorte !
+D_LAWYER_START_OPT_1_4,"Les problèmes juridiques, c'est le cadet de mes soucis en ce moment."
+D_LAWYER_START_OPT_1_5,"Qu'est-ce qu'il a, votre pied ? Un champignon ?"
+D_LAWYER_START_OPT_1_6,"Un avocat dans ce taudis de merde ? Vous devriez pas être dans une villa, ou un truc du genre ?"
+D_LAWYER_START_OPT_1_7,Faut que j'y aille !
+D_LAWYER_START_OPT_2_1,"Moi aussi, j'ai une saleté de mycose au pied."
+D_LAWYER_START_OPT_3_1,Je ne vais pas m'arrêter là. Je dois monter sur le toit.
+D_LAWYER_START_OPT_4_1,"OK, tant mieux. Bonne chance avec la lotion."
+D_LAWYER_START_OPT_5_1,Comme quoi ?
+D_LAWYER_START_OPT_6_1,"Qu'est-ce qu'elles ont de si spécial, ces foutues cacahuètes ?"
+D_LAWYER_START_OPT_6_2,Et vous avez quand même besoin d'une grille contre les étages du bas ?
+D_LAWYER_START_OPT_6_3,Donc il vous faut une grille contre les étages du bas ?
+D_LAWYER_START_OPT_6_4,Changeons de sujet.
+D_LAWYER_START_OPT_7_1,Samson est clairement accro.
+D_LAWYER_START_OPT_7_2,C'est inquiétant.
+D_LAWYER_START_OPT_7_3,Ces intellos trouvent toujours de quoi gâcher la fête.
+D_LAWYER_START_OPT_7_4,Ça part en cacahuète.
+D_LAWYER_START_OPT_8_1,"Laissez tomber, sans doute pas votre milieu."
+D_LAWYER_START_OPT_9_1,J'ai juste besoin d'aller sur le toit. 

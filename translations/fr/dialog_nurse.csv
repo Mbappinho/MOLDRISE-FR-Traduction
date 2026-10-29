@@ -1,0 +1,100 @@
+keys,fr
+D_NURSE_START_DIALOG_1,"Vous vous tenez comme si... C'est votre pied.
+Infection ou blessure ?"
+D_NURSE_START_DIALOG_10,"Plutôt normal.
+Il y a des points de contrôle sur quelques routes, déguisés en travaux. Des files d'attente devant les pharmacies, mais c'est la saison de la grippe. Ceux qui relèvent ce genre de choses, on les fait passer pour des illuminés avec un chapeau en papier alu.
+Tout va bien, dehors, [i]pour l'instant[/i]."
+D_NURSE_START_DIALOG_11,C'est de la prévoyance. Ce n'est pas pareil.
+D_NURSE_START_DIALOG_12,"J'entends des conversations. Sur des choses que, enfin... qu'on ne dit pas en public. Chaque jour, ils ont l'air plus inquiets."
+D_NURSE_START_DIALOG_13,C'est vous qui voyez.
+D_NURSE_START_DIALOG_14,"Très bien, [b]vous l'aurez voulu[/b].
+Ce sont les Krazy Kraunchy Nutz, comme celles du distributeur d'en bas. Si on en mange régulièrement, des choses commencent à changer dans le corps. Ça ouvre une porte.
+Il existe une souche de cordyceps qui passe tout droit par cette porte. Normalement, les spores ne survivent pas dans le corps humain. Totalement inoffensives. [b]Chez un mangeur de cacahuètes, elles prennent pied[/b]."
+D_NURSE_START_DIALOG_15,Je crois qu'ils essaient de gérer [i]quelque chose[/i] qu'ils croyaient... [i]plus simple[/i].
+D_NURSE_START_DIALOG_16,"Une fine couche, tous les jours, sans exception.
+Ça ne guérit rien. Rien ne guérit ça. Mais ça fait gagner du temps."
+D_NURSE_START_DIALOG_17,"Les [b]CDC les ont retirées des rayons il y a des mois[/b], quand ils ont découvert qu'elles étaient en cause. Le plan est solide : traiter les personnes exposées et ne pas faire de vagues. Ils veulent juste attendre que ça passe. Plus de cacahuètes, plus de nouveaux cas.
+Enfin, disons que [i]c'était[/i] le plan. [b]C'est pour ça que personne, côté officiel, ne panique[/b]."
+D_NURSE_START_DIALOG_18,"Ça commence au pied gauche. Entre le quatrième et le cinquième orteil. [b]À chaque fois[/b].
+Alors quand quelqu'un arrive en boitant devant ma porte, je n'ai pas besoin de fiche d'admission."
+D_NURSE_START_DIALOG_19,Alors allez au distributeur. Dix-huit étages plus bas.
+D_NURSE_START_DIALOG_2,Bien sûr. Espèces uniquement.
+D_NURSE_START_DIALOG_20,"Pardon, [i]quoi[/i] ?"
+D_NURSE_START_DIALOG_21,[b]Non. Réfléchissez.[/b]
+D_NURSE_START_DIALOG_22,"[shake]Non, vous n'êtes pas sûr.[/shake] Comment peut-on être sûr pour [i]un en-cas[/i] ?
+Vous avez emménagé ici quand ? Quel pied ? Montrez-moi. Non. Laissez. Le gauche. Vous avez dit le gauche. Entre les orteils. Le quatrième et le cinquième.
+Ça commence toujours là, à chaque fois. [shake]Dans tous les cas, sans exception, chez des gens qui avaient mangé les cacahuètes[/shake]."
+D_NURSE_START_DIALOG_23,Ouais.
+D_NURSE_START_DIALOG_25,"[b]Ils pensent que les cacahuètes sont le seul vecteur d'infection.[/b] Donc le plan, c'est d'avancer prudemment. Pas de cacahuètes, pas d'infection.
+C'est pour ça que personne ne s'affole encore. C'est pour ça que les points de contrôle des CDC ressemblent encore à des chantiers. Leur plan, c'est juste d'attendre que ça passe, et c'est un bon plan si les cacahuètes sont le seul vecteur."
+D_NURSE_START_DIALOG_26,Une seule chose soulage : la lotion antifongique. Qualité hospitalière.
+D_NURSE_START_DIALOG_27,"Si vous êtes infecté et que vous n'en avez jamais mangé... Mon Dieu, ils se trompent peut-être. Il y a peut-être [b]un autre vecteur que personne ne surveille.[/b]"
+D_NURSE_START_DIALOG_28,"[i]Peut-être, oui. C'est sans doute ça.[/i] Un antécédent, une contamination, quelque chose... il y a toujours des exceptions.
+[i]Mais ce genre d'exception, on le documente et on l'étudie.[/i] Même si on a peu de temps. On aurait un dossier pour chaque personne dans votre cas. Et s'il y avait un dossier, il y aurait un changement de protocole. Et s'il y avait eu un changement de protocole, j'en aurais entendu parler. Je suis en première ligne, j'entends tout avant que ce soit officiel.
+Ça fait trois mois qu'ils ont retiré le produit, mais [i]le nombre de nouveaux cas ne baisse pas.[/i] Au contraire, même. Ils n'arrêtent pas d'accuser les gens de ne pas respecter les consignes, parce qu'ils en ont encore chez eux. Qu'ils continuent d'en manger.
+[i][shake]Et si les chiffres ne baissent pas parce que les cacahuètes ne sont plus le vecteur ?[/shake][/i]"
+D_NURSE_START_DIALOG_29,"Pardon, [i]quoi[/i] ?"
+D_NURSE_START_DIALOG_3,Lequel ?
+D_NURSE_START_DIALOG_32,"[b]C'est impossible. C'est trop tôt, ça ne peut pas venir d'aujourd'hui. Non. Réfléchissez.[/b]"
+D_NURSE_START_DIALOG_38,Qu'est-ce que vous faites ici ? Vous devriez aller voir le Dr Lee.
+D_NURSE_START_DIALOG_4,"Moi, c'est Betty. Je suis infirmière. De nuit, à Sainte-Élisabeth. Autrement dit... je sais ce que c'est, ce pied.
+Qu'est-ce qu'il vous faut ?"
+D_NURSE_START_DIALOG_41,Vous connaissez la marche à suivre. Tous les jours. Sans exception.
+D_NURSE_START_DIALOG_43,"Ouais.
+Continuez à mettre la lotion."
+D_NURSE_START_DIALOG_44,"Je vais passer un coup de fil. Tout de suite. [b]Il faut prévenir le Dr Lee[/b], c'est une spécialiste. Elle saura quoi faire de vous. Pardon, je veux dire : ce que vous devez faire."
+D_NURSE_START_DIALOG_45,"Quoi que vous fassiez, ne montez [b]PAS[/b] ! Descendez au [quest]8e étage et allez parler au Dr Lee[/quest]. Je la préviens que vous arrivez. Je vous en prie, ne traînez pas dans les couloirs. C'est sérieux !
+Si ce nouveau variant ressemble un tant soit peu à celui qu'on connaît, votre corps fera tout pour vous faire monter. [b]Ignorez-le. Luttez.[/b] C'est plus grave que votre cas. Ou le mien. [b]Ou celui de n'importe qui dans cet immeuble, à vrai dire.[/b]"
+D_NURSE_START_DIALOG_46,"Le pied gauche. Quatrième et cinquième. [i]Comme tout le monde.[/i]
+[i]Mais vous n'en avez jamais mangé.[/i]"
+D_NURSE_START_DIALOG_47,"Le distributeur d'en bas, au travail, dans une station-service, à une fête, quelqu'un vous en a proposé. Il y en avait partout. Tout le monde en mangeait. [wave][b]Réfléchissez[/b][/wave]."
+D_NURSE_START_DIALOG_48,Un instant...
+D_NURSE_START_DIALOG_49,"[shake]Non, je vous en prie, ne faites pas ça ![/shake] Ça pourrait poser un [b]vrai problème[/b]."
+D_NURSE_START_DIALOG_5,"Le pied gauche. Entre le quatrième et le cinquième orteil, si c'est comme pour les autres.
+Quand vous aurez fini de faire des mystères, revenez."
+D_NURSE_START_DIALOG_50,"Il ne s'agit plus de vous !
+Écoutez, je ne peux pas vous forcer. Mais si vous changez d'avis, [b]revenez quand vous voulez[/b] !"
+D_NURSE_START_DIALOG_51,"Oui, je sais. J'en sais bien plus que vous ne l'imaginez.
+Il y a [b]six[/b] patients dans mon service qui ne pensent qu'à ça.
+Mais je vous en prie, si vous [b]changez d'avis, et vous devriez, revenez quand vous voulez[/b]."
+D_NURSE_START_DIALOG_52,Vous y avez réfléchi ? On prend des mesures ?
+D_NURSE_START_DIALOG_53,"Vu les circonstances, je vais vous donner une de mes lotions gratuitement. Mais promettez-moi d'aller voir le Dr Lee immédiatement, d'accord ?"
+D_NURSE_START_DIALOG_54,Elles sont plus fortes que tout ce qu'il y a dans le distributeur. Mais je ne peux pas tout vous donner gratuitement. [b]Surtout pas[/b] avec ce qu'on vient de découvrir.
+D_NURSE_START_DIALOG_55,[quest]J'en ai un peu en stock. Quatre pièces l'unité.[/quest]
+D_NURSE_START_DIALOG_56,Vu les... circonstances... je vais vous donner une lotion gratuitement. Mais promettez-moi de vous en servir pour aller voir le Dr Lee immédiatement !
+D_NURSE_START_DIALOG_6,"Encore vous.
+Le pied ne va pas mieux. Ça ne va jamais mieux."
+D_NURSE_START_DIALOG_7,Plus forte que tout ce qu'il y a dans le distributeur d'en bas.
+D_NURSE_START_DIALOG_8,"Le distributeur ne sait pas ce qui se prépare. Moi, si."
+D_NURSE_START_DIALOG_9,Prenez soin de ce pied. Autant que possible.
+D_NURSE_START_OPT_10_1,"Bon, vous vouliez proposer quoi, tout à l'heure ?"
+D_NURSE_START_OPT_10_2,"Mon pied me démange, c'est l'enfer !"
+D_NURSE_START_OPT_10_3,Je voudrais vous acheter de la lotion.
+D_NURSE_START_OPT_10_4,Bonne chance.
+D_NURSE_START_OPT_11_1,Je suis peut-être juste une exception bizarre.
+D_NURSE_START_OPT_11_2,Qu'est-ce que vous allez faire ?
+D_NURSE_START_OPT_11_3,C'est trop pour moi. Je m'en vais.
+D_NURSE_START_OPT_12_1,J'en ai mangé pour la première fois aujourd'hui.
+D_NURSE_START_OPT_15_1,"Et moi, alors ?"
+D_NURSE_START_OPT_16_1,"Mon problème, c'est mon pied. Et vous ne m'aidez pas."
+D_NURSE_START_OPT_16_2,Je dois aller sur le toit !
+D_NURSE_START_OPT_16_3,"Bon, qu'est-ce que vous voulez faire ?"
+D_NURSE_START_OPT_1_1,"Mon pied me démange, c'est l'enfer !"
+D_NURSE_START_OPT_1_2,Je voudrais vous acheter de la lotion.
+D_NURSE_START_OPT_1_3,"Comment ça se passe, dehors, en ce moment ?"
+D_NURSE_START_OPT_1_4,Vous avez dit « pour l'instant ». Qu'avez-vous remarqué ?
+D_NURSE_START_OPT_1_5,Arrêtez de tourner autour du pot. Qu'est-ce qui se passe vraiment ?
+D_NURSE_START_OPT_1_6,Ces cacahuètes... Je n'en ai jamais mangé.
+D_NURSE_START_OPT_1_7,"Ces cacahuètes... J'en ai mangé une seule fois, aujourd'hui..."
+D_NURSE_START_OPT_1_8,Je dois y aller.
+D_NURSE_START_OPT_2_1,"C'est infecté, une espèce de champignon."
+D_NURSE_START_OPT_2_2,Ça ne vous regarde pas.
+D_NURSE_START_OPT_3_1,Le gauche. Pourquoi ?
+D_NURSE_START_OPT_4_1,"Quatre ? Au distributeur, c'est deux !"
+D_NURSE_START_OPT_4_2,C'est pas comme si j'avais le choix.
+D_NURSE_START_OPT_4_3,Pas maintenant.
+D_NURSE_START_OPT_6_1,Bon. Quatre pièces.
+D_NURSE_START_OPT_6_2,C'est du vol.
+D_NURSE_START_OPT_7_1,J'en ai jamais mangé. Pas une seule fois.
+D_NURSE_START_OPT_8_1,Jamais. J'en suis sûr.
+D_NURSE_START_OPT_9_1,"Et si je n'en ai pas mangé, ça veut dire quoi ?"

@@ -1,0 +1,60 @@
+keys,fr
+D_EX_WIFE_START_DIALOG_1,"Je ne vous ai jamais vu... Je ne veux pas être malpolie, mais je peux vous aider ? J'ai des trucs à faire."
+D_EX_WIFE_START_DIALOG_10,[font_size=55][shake]Depuis quand ce minable est aussi bavard ?[/shake][/font_size]
+D_EX_WIFE_START_DIALOG_11,[font_size=55][shake]Qui vous a raconté ces conneries ?[/shake][/font_size]
+D_EX_WIFE_START_DIALOG_12,"Même pour un million de dollars, je ne pourrais pas : je ne me suis jamais embêtée à retenir ce code. Je l'avais dans mon téléphone, et je l'ai effacé en déménageant."
+D_EX_WIFE_START_DIALOG_13,Exact.
+D_EX_WIFE_START_DIALOG_14,J'ai une proposition.
+D_EX_WIFE_START_DIALOG_15,"Tu vas porter un message de ma part à cette ordure infidèle qui se prend pour un playboy, et en échange, je te donnerai un [quest]code de frappe secret[/quest]."
+D_EX_WIFE_START_DIALOG_16,"Si tu [quest]{FloorEventManager.knock_pattern_to_string_conversational()}[/quest], je te garantis qu'il ouvrira la porte."
+D_EX_WIFE_START_DIALOG_17,"OK, et voilà le message. Tu le lui répètes MOT POUR MOT !"
+D_EX_WIFE_START_DIALOG_18,...[font_size=55][shake]J'ESPÈRE QUE TES PUTAINS DE COUILLES VONT POURRIR ET TOMBER ![/shake][/font_size]
+D_EX_WIFE_START_DIALOG_19,Tu as transmis le message ?
+D_EX_WIFE_START_DIALOG_2,"C'est un interrogatoire, maintenant ? Je n'achète rien. Qu'est-ce qu'ils sont pénibles, les gens d'ici !"
+D_EX_WIFE_START_DIALOG_20,"Ouais, je m'en doutais. Mais ça valait le coup d'essayer, non ?"
+D_EX_WIFE_START_DIALOG_21,"Rooooh. Toi et Dieter, vous feriez la paire !"
+D_EX_WIFE_START_DIALOG_22,"Si tu {FloorEventManager.knock_pattern_to_string_conversational()}, il t'ouvrira."
+D_EX_WIFE_START_DIALOG_23,"Cette fois, c'est bon ?"
+D_EX_WIFE_START_DIALOG_24,Comment tu peux oublier ça ? C'est un message tout simple... bref.
+D_EX_WIFE_START_DIALOG_25,J'ESPÈRE QUE TES PUTAINS DE COUILLES VONT POURRIR ET TOMBER !
+D_EX_WIFE_START_DIALOG_26,"Et retiens-le, cette fois !"
+D_EX_WIFE_START_DIALOG_27,Beurk. Le cinglé des pieds ! Restez à distance ou je vomis.
+D_EX_WIFE_START_DIALOG_28,Qu'est-ce qu'il y a ?
+D_EX_WIFE_START_DIALOG_29,"Mais qu'est-ce que... comment vous savez ça ? Vous me stalkez, ou quoi ?"
+D_EX_WIFE_START_DIALOG_3,"Pfff... oui, je viens d'emménager."
+D_EX_WIFE_START_DIALOG_30,"Ah ça, pour les dépasser, vous les avez dépassées. Allez, finissons-en avant que j'appelle les flics."
+D_EX_WIFE_START_DIALOG_31,"Rah, je déteste cet endroit. Si seulement je n'avais jamais emménagé ici !"
+D_EX_WIFE_START_DIALOG_32,"Depuis qu'il s'est fait cambrioler il y a deux ans, il n'ouvre plus qu'avec ça."
+D_EX_WIFE_START_DIALOG_33,"Ouais, ça, c'est bien Dieter."
+D_EX_WIFE_START_DIALOG_34,"[font_size=55][shake]C'est VOUS qui frappez à ma porte, et c'est MOI la malpolie ?[/shake][/font_size]"
+D_EX_WIFE_START_DIALOG_35,[font_size=55][shake]Allez vous faire foutre ![/shake][/font_size]
+D_EX_WIFE_START_DIALOG_36,"Vous ??? Qu'est-ce que vous voulez, bordel ? Faites vite !"
+D_EX_WIFE_START_DIALOG_37,"Il utilisait [quest]ce code partout : pour signer ses lettres d'amour, ses cartes d'anniversaire[/quest], comme code PIN, comme mot de passe en ligne..."
+D_EX_WIFE_START_DIALOG_4,[font_size=55][shake]Beurk. Ça a l'air dégoûtant. Je déteste tout ce qui touche aux pieds ![/shake][/font_size]
+D_EX_WIFE_START_DIALOG_5,Encore vous ? Qu'est-ce qu'il y a ?
+D_EX_WIFE_START_DIALOG_6,Pfff... ça commence à ressembler sérieusement à du harcèlement. Faites vite.
+D_EX_WIFE_START_DIALOG_7,"Ouh là. Vous êtes qui, vous ?"
+D_EX_WIFE_START_DIALOG_8,"[font_size=55][shake]Holà, holà, holà ![/shake][/font_size]"
+D_EX_WIFE_START_DIALOG_9,[font_size=55][shake]C'est lui qui vous a dit ça ?[/shake][/font_size]
+D_EX_WIFE_START_OPT_10_1,"Juste des ragots, vous connaissez cet immeuble..."
+D_EX_WIFE_START_OPT_10_2,"Désolé, je ne voulais pas dépasser les bornes."
+D_EX_WIFE_START_OPT_1_1,Je dois vous poser une question personnelle...
+D_EX_WIFE_START_OPT_1_2,Je suis le voisin du 6e étage.
+D_EX_WIFE_START_OPT_1_3,Je ne vous ai jamais vue ici. Vous venez d'emménager ?
+D_EX_WIFE_START_OPT_1_4,Mon pied... il a un truc qui cloche. Vous pourriez m'aider ?
+D_EX_WIFE_START_OPT_1_5,Mais qu'est-ce qui vous prend ? Arrêtez d'être aussi malpolie !
+D_EX_WIFE_START_OPT_1_6,"Désolé, je ne voulais pas vous déranger."
+D_EX_WIFE_START_OPT_2_1,"J'habite ici depuis un bon moment, mais je jurerais ne vous avoir jamais vue."
+D_EX_WIFE_START_OPT_2_2,"Arrêtez d'être aussi malpolie, putain !!"
+D_EX_WIFE_START_OPT_3_1,"Votre ex habite au 21e. C'est haut, mais moins que là où vous viviez tous les deux, hein ?"
+D_EX_WIFE_START_OPT_3_2,Il paraît que vous avez le code de la grille de sécurité ?
+D_EX_WIFE_START_OPT_4_1,"J'ai juste entendu la rumeur, je ne lui ai pas parlé. Mais il faut que je lui parle."
+D_EX_WIFE_START_OPT_4_2,"J'en ai entendu parler. Il faut que je lui parle, mais il n'ouvre pas sa porte."
+D_EX_WIFE_START_OPT_5_1,J'en conclus que c'est non ?
+D_EX_WIFE_START_OPT_5_2,"Du calme, on pourrait peut-être faire un petit échange ?"
+D_EX_WIFE_START_OPT_6_1,{FloorEventManager.knock_pattern_to_string_formal()} Compris.
+D_EX_WIFE_START_OPT_7_1,J'ai oublié le code de frappe...
+D_EX_WIFE_START_OPT_7_2,J'ai oublié le message
+D_EX_WIFE_START_OPT_7_3,Oui ! Mais franchement... il s'en fichait.
+D_EX_WIFE_START_OPT_8_1,"J'ai de graves problèmes de santé, et tu m'as fait monter là-haut juste pour t'amuser ?"
+D_EX_WIFE_START_OPT_9_1,"Vous vous appelez Chaya, c'est ça ? Vous avez quitté les étages de luxe récemment ?"

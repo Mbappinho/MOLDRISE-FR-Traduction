@@ -1,0 +1,105 @@
+keys,fr
+D_CULTIST_KILL_DIALOG_35,"Non.
+Je n'y suis pas obligé.
+Je choisis de le faire."
+D_CULTIST_KILL_DIALOG_36,Tu es réveillé.
+D_CULTIST_KILL_DIALOG_37,Je ne crois pas que cela servirait à grand-chose.
+D_CULTIST_KILL_DIALOG_38,Tu portes la [b]floraison[/b].
+D_CULTIST_KILL_DIALOG_39,[b]Il lui faut une mort.[/b]
+D_CULTIST_KILL_DIALOG_40,Mais je vais te faire fleurir.
+D_CULTIST_KILL_DIALOG_41,On me l'a déjà dit.
+D_CULTIST_KILL_DIALOG_42,Tu te réveilles enchaîné à une chaise.
+D_CULTIST_KILL_OPT_17_1,"Putain ! C'est quoi, ce délire !? Détachez-moi !"
+D_CULTIST_KILL_OPT_18_1,Qu'est-ce que vous faites ?
+D_CULTIST_KILL_OPT_19_1,Vous êtes complètement fou !
+D_CULTIST_KILL_OPT_20_1,Vous n'êtes pas obligé de faire ça ! Je vous en supplie !
+D_CULTIST_START_DIALOG_1,"Bonjour.
+Tu as commencé à le remarquer, n'est-ce pas ? Il est encore très discret."
+D_CULTIST_START_DIALOG_10,"J'ai reconnu le commencement.
+J'ai observé bien des commencements."
+D_CULTIST_START_DIALOG_11,"Quand une graine devient un arbre, qu'y a-t-il à guérir, au juste ?"
+D_CULTIST_START_DIALOG_12,"Les démangeaisons se font plus discrètes. Le désir, lui, se fait plus pressant."
+D_CULTIST_START_DIALOG_13,"J'ai observé.
+J'ai écouté.
+J'ai enterré bien des espérances"
+D_CULTIST_START_DIALOG_14,Je pense que nous nous reverrons. Quand tu seras à l'écoute.
+D_CULTIST_START_DIALOG_15,Te revoilà. Il est devenu assez difficile à ignorer. Mais tu n'es pas prêt.
+D_CULTIST_START_DIALOG_16,"Sois le bienvenu.
+Il parle très clairement, à présent.
+Je t'attendais."
+D_CULTIST_START_DIALOG_17,"Non.
+Je connais la saison.
+Et tu y es arrivé."
+D_CULTIST_START_DIALOG_18,Et tu es arrivé à la bonne saison.
+D_CULTIST_START_DIALOG_19,Tu deviens facile à reconnaître.
+D_CULTIST_START_DIALOG_2,Le jour viendra.
+D_CULTIST_START_DIALOG_20,Quelqu'un qui a été invité.
+D_CULTIST_START_DIALOG_21,"J'ai passé des années à me poser cette question.
+Je ne crois plus que cela ait de l'importance."
+D_CULTIST_START_DIALOG_22,"Bien entendu.
+Tu ne pars pas à cause de moi.
+Tu pars parce que tu crois encore avoir le choix."
+D_CULTIST_START_DIALOG_23,"Un commencement.
+Tout ce qui compte commence par un inconfort."
+D_CULTIST_START_DIALOG_24,"Je crois, oui.
+Mais pas comme tu l'espères.
+Tu as cessé d'écouter tes pensées. Tu commences à l'écouter, lui.
+J'ai préparé du thé.
+J'ai aussi des Krazy Kraunchy Nutz.
+Je trouve poli de proposer les deux."
+D_CULTIST_START_DIALOG_25,Parce que personne ne devrait recevoir une invitation le ventre vide.
+D_CULTIST_START_DIALOG_26,Celle de ne plus être seul.
+D_CULTIST_START_DIALOG_27,"Bien entendu.
+L'invitation tient toujours. Elle n'expire pas.
+Pour peu que tu sois [b]prêt et que tu entendes l'appel[/b]."
+D_CULTIST_START_DIALOG_28,"Oui, bien sûr.
+Des gens qui ont attendu.
+Des gens qui ont cessé d'attendre.
+Des gens qui comprennent."
+D_CULTIST_START_DIALOG_29,"Merci.
+Je crois qu'ils seront ravis de faire ta connaissance."
+D_CULTIST_START_DIALOG_3,Il n'est simplement pas encore arrivé.
+D_CULTIST_START_DIALOG_30,"Sois le bienvenu.
+Aurais-tu changé d'avis ?"
+D_CULTIST_START_DIALOG_31,Bien entendu.
+D_CULTIST_START_DIALOG_32,"Sois le bienvenu.
+Es-tu prêt à rencontrer les autres ?"
+D_CULTIST_START_DIALOG_33,Écoute l'appel. Reviens quand tu l'entendras clairement.
+D_CULTIST_START_DIALOG_34,"Bien entendu.
+Nous t'attendons."
+D_CULTIST_START_DIALOG_4,La direction à suivre.
+D_CULTIST_START_DIALOG_5,"Non. Pas encore.
+Mais tu le remarqueras, je crois."
+D_CULTIST_START_DIALOG_6,J'ai bien peur qu'il n'y ait rien pour toi ici.
+D_CULTIST_START_DIALOG_7,"Bonjour.
+Tu commences à le remarquer ? Il est encore très discret."
+D_CULTIST_START_DIALOG_8,Dommage. [b]Reviens quand tu entendras clairement l'appel[/b].
+D_CULTIST_START_DIALOG_9,"Il a atteint ton pied.
+Il est devenu assez difficile à ignorer.
+Je me demandais quand cela arriverait."
+D_CULTIST_START_OPT_10_1,Invité par qui ?
+D_CULTIST_START_OPT_10_2,Qu'est-ce que c'est que tout ça ?
+D_CULTIST_START_OPT_10_3,Vous pouvez m'aider ?
+D_CULTIST_START_OPT_10_4,Espèce de mage de foire flippant. Je me tire !
+D_CULTIST_START_OPT_11_1,Pourquoi ?
+D_CULTIST_START_OPT_12_1,Quelle invitation ?
+D_CULTIST_START_OPT_13_1,"Il y en a d'autres, là-dedans ?"
+D_CULTIST_START_OPT_13_2,D'accord.
+D_CULTIST_START_OPT_13_3,Ça ne m'intéresse pas.
+D_CULTIST_START_OPT_14_1,Oui. Vous pouvez m'aider ?
+D_CULTIST_START_OPT_14_2,"Non, je m'en vais !"
+D_CULTIST_START_OPT_15_1,Pas prêt ?
+D_CULTIST_START_OPT_16_1,"Oui, je ne veux plus être seul."
+D_CULTIST_START_OPT_16_2,"Non, j'ai besoin de plus de temps."
+D_CULTIST_START_OPT_1_1,Remarquer quoi ?
+D_CULTIST_START_OPT_2_1,De quoi vous parlez ?
+D_CULTIST_START_OPT_3_1,Je ne crois pas.
+D_CULTIST_START_OPT_4_1,Vous saviez ?
+D_CULTIST_START_OPT_5_1,On peut en guérir ?
+D_CULTIST_START_OPT_6_1,"Et ensuite, il se passe quoi ?"
+D_CULTIST_START_OPT_6_2,Vous avez déjà vu ça ?
+D_CULTIST_START_OPT_6_3,Je m'en vais.
+D_CULTIST_START_OPT_7_1,On se connaît ?
+D_CULTIST_START_OPT_7_2,D'accord... ?
+D_CULTIST_START_OPT_8_1,Qu'est-ce qui m'arrive ?
+D_CULTIST_START_OPT_9_1,Reconnaître comme quoi ?

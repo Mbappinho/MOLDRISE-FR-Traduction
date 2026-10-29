@@ -1,0 +1,127 @@
+keys,fr
+D_JANITOR_START_DIALOG_1,Qu'est-ce qu'il y a ?
+D_JANITOR_START_DIALOG_10,[font_size=60]ET MÊME UN TRUC QUI ENFREIGNAIT SÛREMENT UN ARRÊTÉ MUNICIPAL.[/font_size]
+D_JANITOR_START_DIALOG_11,Ma lampe torche a disparu. Y a pas de lumière dans le couloir du sous-sol. J'y mets pas les pieds.
+D_JANITOR_START_DIALOG_12,"C'est toi qui vois. Tu descends l'escalier, au bout du couloir, la pièce à droite. Le tableau est à gauche. [quest]Tu mets le fusible et tu réarmes le disjoncteur[/quest]. C'est simple."
+D_JANITOR_START_DIALOG_13,"C'est le seul que j'ai ici. [quest]Il devrait y en avoir d'autres quelque part au sous-sol[/quest], au cas où."
+D_JANITOR_START_DIALOG_14,"Bien sûr. L'escalier monte jusqu'en haut.
+Bonne chance."
+D_JANITOR_START_DIALOG_15,"Ah ouais, j'avais presque réussi à oublier. Et puis t'es arrivé."
+D_JANITOR_START_DIALOG_16,"La dernière chose dont [b]moi[/b], j'ai besoin, c'est d'un [i]sale emmerdeur[/i] devant ma porte un dimanche ! [b]Et pourtant, nous y voilà.[/b]"
+D_JANITOR_START_DIALOG_17,C'est [b]TOI[/b] qui étais si pressé de le réparer ! Qu'est-ce que t'attends ?
+D_JANITOR_START_DIALOG_18,T'as qu'à prendre l'ascenseur en attendant la fin des réparations.
+D_JANITOR_START_DIALOG_19,Encore toi...
+D_JANITOR_START_DIALOG_2,"[font_size=60][shake]OH ! IL SAIT LIRE, CELUI-LÀ ! ET APRÈS ? DÉBOUCHER TES CHIOTTES TOUT SEUL ?[/shake][/font_size]"
+D_JANITOR_START_DIALOG_20,"Alors, t'as remplacé le fusible ?"
+D_JANITOR_START_DIALOG_21,Bienvenue dans mon monde...
+D_JANITOR_START_DIALOG_22,"Bien. Je veux pas savoir comment t'as fait dans le noir.
+Vraiment pas. Me dis rien."
+D_JANITOR_START_DIALOG_23,J'ai dit : me dis rien.
+D_JANITOR_START_DIALOG_24,J'ai pas dit merci.
+D_JANITOR_START_DIALOG_25,L'ascenseur remarche. Profite bien de ta petite virée sur le toit.
+D_JANITOR_START_DIALOG_26,Qu'est-ce qu'il y a ?
+D_JANITOR_START_DIALOG_27,Dégage !
+D_JANITOR_START_DIALOG_28,Alors fiche-moi la paix !
+D_JANITOR_START_DIALOG_29,Va casser les pieds à quelqu'un d'autre !
+D_JANITOR_START_DIALOG_3,[font_size=60][shake]ÉCRIRE TON NOM ? CHANGER UNE AMPOULE ?[/shake][/font_size]
+D_JANITOR_START_DIALOG_31,T'habites là-haut ?
+D_JANITOR_START_DIALOG_32,Alors tu passes pas.
+D_JANITOR_START_DIALOG_33,Je nettoie la cage d'escalier. Ces gens-là paient un supplément pour cette grille. Justement pour que les gens comme toi entrent pas comme dans un moulin.
+D_JANITOR_START_DIALOG_34,Des gens qui viennent de réparer mon ascenseur et qui se prennent pour les rois du monde.
+D_JANITOR_START_DIALOG_35,Bien sûr. Trouve le code.
+D_JANITOR_START_DIALOG_36,Celui qui sera assez con pour te le dire. Pas moi.
+D_JANITOR_START_DIALOG_37,"Des gens normaux. Juste avec plus de fric que toi et moi.
+Moquette dans les couloirs. Ils se sont plaints de l'odeur de l'ascenseur, une fois.
+Une seule fois."
+D_JANITOR_START_DIALOG_38,Qu'est-ce qu'elle a ?
+D_JANITOR_START_DIALOG_39,J'imagine bien.
+D_JANITOR_START_DIALOG_4,"Ouais. Je sais.
+Ça sent le cadavre de deux semaines.
+J'ai une tête de médecin ? Je suis pas payé comme un médecin.
+8e étage. Le Dr Lee."
+D_JANITOR_START_DIALOG_40,"Si tu tombes du toit, ça devient mon problème.
+Non."
+D_JANITOR_START_DIALOG_41,[font_size=60][shake]TU TE PRENDS POUR UN AVOCAT ?![/shake][/font_size]
+D_JANITOR_START_DIALOG_42,"Ah [b]et puis merde[/b], je vais pas porter le chapeau pour ça.
+Le service d'hygiène a envoyé une lettre. Ça disait de sécuriser l'accès au toit. Alors je l'ai sécurisé."
+D_JANITOR_START_DIALOG_43,"Je viens de le dire, t'es un perroquet ? Ça disait sécuriser. J'ai sécurisé."
+D_JANITOR_START_DIALOG_44,"D'abord tu me harcèles et après t'oublies ce que je t'ai dit ?
+Au sous-sol, [b]tout au bout du couloir[/b]. La clé est [b]derrière le tuyau du milieu, à côté de la vanne jaune[/b]. Mets-toi à genoux, tu la verras !
+[b]Maintenant, fiche-moi la paix et arrête de me casser les pieds ![/b]"
+D_JANITOR_START_DIALOG_45,"La clé de la porte du toit est [quest]cachée au sous-sol[/quest].
+Tout [quest]au bout du couloir[/quest], il y a trois grosses vannes. La clé est cachée [quest]derrière le tuyau du milieu, à côté de la vanne jaune qui fuit[/quest]. Faudra te mettre à genoux pour la voir.
+Je t'ai rien donné. T'es entré par effraction. On s'est jamais parlé.
+[b]Maintenant, fiche-moi la paix ![/b]"
+D_JANITOR_START_DIALOG_46,Le noir et un tableau électrique. Quelle question débile...
+D_JANITOR_START_DIALOG_47,J'y vois rien dans le noir. Je perdrais mon temps.
+D_JANITOR_START_DIALOG_48,[font_size=60][shake]ÇA TE REGARDE PAS ![/shake][/font_size]
+D_JANITOR_START_DIALOG_49,Tu t'attends à croiser des zombies ?
+D_JANITOR_START_DIALOG_5,Les dépanneurs vont passer.
+D_JANITOR_START_DIALOG_50,"Haha, t'as cherché ça sur Internet ? Des apprentis avocats, j'en vois tous les jours."
+D_JANITOR_START_DIALOG_51,[font_size=60][shake]TOUS LES JOURS ![/shake][/font_size]
+D_JANITOR_START_DIALOG_52,Le concierge lit la lettre. Tu l'entends marmonner.
+D_JANITOR_START_DIALOG_53,"Essaie même pas de le revendre, même la vieille bique du 1er étage en voudra pas."
+D_JANITOR_START_DIALOG_54,T'as fait... quoi ? Réparé l'ascenseur ? Comment ?
+D_JANITOR_START_DIALOG_55,"Bref, les détails, je m'en fiche. Une tâche de moins sur ma liste. Plus que quarante-six.
+Autre chose ?"
+D_JANITOR_START_DIALOG_56,Quoi ?
+D_JANITOR_START_DIALOG_57,"Des gamins qui montaient là-haut. Le week-end. Bouteilles, musique, tout le tralala.
+Fallait que je ferme."
+D_JANITOR_START_DIALOG_58,"Sérieux ? Encore l'issue de secours ? T'as eu ton diplôme d'avocat, depuis ?"
+D_JANITOR_START_DIALOG_59,Encore toi ? Tu veux encore pleurnicher pour la porte du toit ? C'est reparti.
+D_JANITOR_START_DIALOG_6,Quand ils se pointeront.
+D_JANITOR_START_DIALOG_7,"Moi, je vis en bas, je m'en fous complètement. C'est pas mon boulot de réparer ça. Pas un dimanche."
+D_JANITOR_START_DIALOG_8,"[font_size=60]SI JE PEUX ?? OUI, JE PEUX LE RÉPARER, J'AI LE FUSIBLE DANS LA POCHE, LÀ ![/font_size]"
+D_JANITOR_START_DIALOG_9,"[font_size=55]J'AI RÉPARÉ ABSOLUMENT TOUTES LES SALOPERIES DE CET IMMEUBLE, Y COMPRIS DES TRUCS QUI SONT PAS DU TOUT DANS MON CONTRAT.[/font_size]"
+D_JANITOR_START_OPT_10_1,De rien.
+D_JANITOR_START_OPT_10_2,"Il y avait un truc, en bas."
+D_JANITOR_START_OPT_11_1,Encore une chose...
+D_JANITOR_START_OPT_12_1,À propos de la clé de la porte du toit...
+D_JANITOR_START_OPT_12_2,La porte du toit est verrouillée !
+D_JANITOR_START_OPT_12_3,Il y a une grille en haut de l'escalier. Je dois passer !
+D_JANITOR_START_OPT_12_4,"Rien, en fait."
+D_JANITOR_START_OPT_13_1,Non...
+D_JANITOR_START_OPT_14_1,Des gens comme moi ?
+D_JANITOR_START_OPT_14_2,Qui habite là-haut ?
+D_JANITOR_START_OPT_14_3,Il doit bien y avoir un moyen de passer !
+D_JANITOR_START_OPT_14_4,Bon... il est temps d'y aller.
+D_JANITOR_START_OPT_15_1,C'est une issue de secours ! La loi interdit de verrouiller une issue de secours.
+D_JANITOR_START_OPT_15_2,Je peux avoir la clé ?
+D_JANITOR_START_OPT_15_3,J'ai besoin de monter là-haut !
+D_JANITOR_START_OPT_15_4,Je trouverai un moyen !
+D_JANITOR_START_OPT_16_1,Chez qui ?
+D_JANITOR_START_OPT_17_1,Vous voulez en avoir le cœur net ?
+D_JANITOR_START_OPT_17_2,Non. Mais voilà un courrier d'avocat. [Donner la lettre]
+D_JANITOR_START_OPT_17_3,Euh... non. Je reviendrai.
+D_JANITOR_START_OPT_18_1,Une lettre du service d'hygiène vous a dit de verrouiller une issue de secours ?
+D_JANITOR_START_OPT_19_1,Vous avez peur du noir ?
+D_JANITOR_START_OPT_19_2,"Ouais, ça se tient."
+D_JANITOR_START_OPT_1_1,"Vous êtes le concierge, c'est ça ?"
+D_JANITOR_START_OPT_1_2,J'ai réparé l'ascenseur.
+D_JANITOR_START_OPT_1_3,Vous avez verrouillé la porte du toit !
+D_JANITOR_START_OPT_20_1,"J'ai remplacé le fusible, c'était pas sorcier."
+D_JANITOR_START_OPT_21_1,"Je trouve pas la clé, elle était où, déjà ?"
+D_JANITOR_START_OPT_21_2,Rien.
+D_JANITOR_START_OPT_22_1,Vous voulez en avoir le cœur net ?
+D_JANITOR_START_OPT_22_2,"Non. Mais quelqu'un d'autre, oui. [Donner la lettre]"
+D_JANITOR_START_OPT_22_3,"Hmm, non. On en reparlera plus tard."
+D_JANITOR_START_OPT_2_1,Mon pied. Il a un truc qui va pas.
+D_JANITOR_START_OPT_2_2,L'ascenseur est en panne et j'ai besoin de monter.
+D_JANITOR_START_OPT_2_3,Je dois aller sur le toit.
+D_JANITOR_START_OPT_2_4,Vous avez verrouillé la porte du toit !
+D_JANITOR_START_OPT_2_5,Je... dois y aller...
+D_JANITOR_START_OPT_3_1,Quand ?
+D_JANITOR_START_OPT_3_2,L'escalier est cassé au 13e. Comment les gens font pour monter et descendre ?
+D_JANITOR_START_OPT_4_1,Vous pouvez pas le réparer vous-même ?
+D_JANITOR_START_OPT_5_1,"Alors, c'est quoi, le problème ?"
+D_JANITOR_START_OPT_6_1,Je peux vous aider ? J'ai vraiment besoin d'aller sur le toit.
+D_JANITOR_START_OPT_6_2,"Qu'est-ce qu'il y a, au sous-sol ?"
+D_JANITOR_START_OPT_6_3,Pourquoi vous voulez pas y aller ?
+D_JANITOR_START_OPT_7_1,L'ascenseur est en panne !
+D_JANITOR_START_OPT_7_2,Faites votre putain de boulot et réparez l'ascenseur !
+D_JANITOR_START_OPT_7_3,Vous êtes le concierge le plus inutile du monde.
+D_JANITOR_START_OPT_8_1,"Faire du sport, c'est bien la dernière chose dont j'ai besoin."
+D_JANITOR_START_OPT_8_2,L'escalier est cassé au 13e. Je peux pas passer !
+D_JANITOR_START_OPT_9_1,"Ouais, c'est fait ! Ça remarche !"
+D_JANITOR_START_OPT_9_2,Pas encore. Il fait trop noir en bas ! Il me faut d'abord de la lumière.
+D_JANITOR_START_OPT_9_3,J'y travaille !

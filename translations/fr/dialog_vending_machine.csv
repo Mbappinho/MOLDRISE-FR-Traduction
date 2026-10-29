@@ -1,0 +1,29 @@
+keys,fr
+D_VENDING_MACHINE_START_DIALOG_1,Tu sens le regard glacial du distributeur percer dans ton portefeuille un trou de la taille d'une pièce de monnaie.
+D_VENDING_MACHINE_START_DIALOG_10,[b]Pourvu que ça ne reste pas coincé.[/b]
+D_VENDING_MACHINE_START_DIALOG_11,Bizarre... un distributeur qui vend [b]un truc aussi précis[/b] ?
+D_VENDING_MACHINE_START_DIALOG_12,[b]Snackers ! Trop bon ![/b]
+D_VENDING_MACHINE_START_DIALOG_13,[b]À fond la caisse ![/b]
+D_VENDING_MACHINE_START_DIALOG_14,[b]Ça va soulager ce pied ![/b]
+D_VENDING_MACHINE_START_DIALOG_15,[b]Claquer mon fric pour cette saloperie ?[/b]
+D_VENDING_MACHINE_START_DIALOG_16,"[b]Bon, maintenant c'est trop tard ![/b]"
+D_VENDING_MACHINE_START_DIALOG_18,Dans ma poche : {Inventory.get_coin_count_as_string()}. Qu'est-ce que je prends ?
+D_VENDING_MACHINE_START_DIALOG_19,Je n'ai pas les moyens.
+D_VENDING_MACHINE_START_DIALOG_2,"Ce distributeur préserve l'âme même de cet immeuble. Il est rempli de snacks variés, à différents stades de décomposition. Acheter quelque chose ici, c'est un peu jouer à la roulette – avec ta santé."
+D_VENDING_MACHINE_START_DIALOG_20,En rupture de stock.
+D_VENDING_MACHINE_START_DIALOG_3,Tu fourres tes doigts dans la fente et tu tâtonnes.
+D_VENDING_MACHINE_START_DIALOG_4,"[b]Soudain, quelque chose de pointu te pique violemment[/b]."
+D_VENDING_MACHINE_START_DIALOG_5,Tu soulèves le clapet et enfonces tout ton bras dans le bac de distribution. La sensation est désagréable et l'angle te tord le bras.
+D_VENDING_MACHINE_START_DIALOG_6,C'est ton jour de chance ! Tu as trouvé un Snackers Bar.
+D_VENDING_MACHINE_START_DIALOG_8,"Avec ton portefeuille vide, ça ne va pas être la fête."
+D_VENDING_MACHINE_START_DIALOG_9,[b]Pourvu que ça ne reste pas coincé.[/b]
+D_VENDING_MACHINE_START_OPT_1_1,"Pas d'argent, inutile de perdre mon temps."
+D_VENDING_MACHINE_START_OPT_1_2,[Fouiller le retour monnaie]
+D_VENDING_MACHINE_START_OPT_1_3,[Fouiller le bac de distribution]
+D_VENDING_MACHINE_START_OPT_3_1,"{FloorEventManager.vending_line(""vending_1"", ""food_snackers_bar"")}"
+D_VENDING_MACHINE_START_OPT_3_2,"{FloorEventManager.vending_line(""vending_1"", ""drink_roca_cola"")}"
+D_VENDING_MACHINE_START_OPT_3_3,"{FloorEventManager.vending_line(""vending_1"", ""heal_fungus_lotion"")}"
+D_VENDING_MACHINE_START_OPT_3_4,"{FloorEventManager.vending_line(""vending_1"", ""food_nuts"")}"
+D_VENDING_MACHINE_START_OPT_3_5,[Fouiller le retour monnaie]
+D_VENDING_MACHINE_START_OPT_3_6,[Fouiller le bac de distribution]
+D_VENDING_MACHINE_START_OPT_3_7,C'est tout.

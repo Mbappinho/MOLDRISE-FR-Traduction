@@ -1,0 +1,107 @@
+keys,fr
+D_SUBLETTER_START_DIALOG_1,"Quel étage.
+Laisse tomber. C'est rien. Tu veux quoi."
+D_SUBLETTER_START_DIALOG_10,Je savais que tu reviendrais. Putain.
+D_SUBLETTER_START_DIALOG_11,T'en as pas l'air.
+D_SUBLETTER_START_DIALOG_12,"...C'est ça. OK. Non. Justement, si.
+Bonne journée."
+D_SUBLETTER_START_DIALOG_13,Une plainte. Sur - quel appart. C'était le 27 ? Parce que je peux expliquer-
+D_SUBLETTER_START_DIALOG_14,"Ils arrêtent pas d'envoyer des nouveaux.
+OK. Qu'est-ce que tu - c'est à quel sujet."
+D_SUBLETTER_START_DIALOG_15,"Je suis pas nerveux. J'ai cette tête-là, c'est tout. Pourquoi."
+D_SUBLETTER_START_DIALOG_16,"Depuis combien de temps je - un moment. Une durée normale.
+Quelques mois. Tout va bien."
+D_SUBLETTER_START_DIALOG_17,Ouais.
+D_SUBLETTER_START_DIALOG_18,...
+D_SUBLETTER_START_DIALOG_19,"Écoute. Je paie - quelqu'un paie. C'est un gars qui s'occupe de l'arrangement, et le nom sur le bail, c'est le sien, et c'est - c'est une location tout à fait normale.
+Je peux pas me permettre d'avoir quoi que ce soit dans mon dossier à la gérance en ce moment. Le moindre - si on me signale-
+...Tu m'as dit que tu t'appelais comment."
+D_SUBLETTER_START_DIALOG_2,"OK.
+Désolé. Je croyais que t'étais - laisse tomber. Quoi."
+D_SUBLETTER_START_DIALOG_20,"Oh.
+D'accord.
+Qu'est-ce que tu veux."
+D_SUBLETTER_START_DIALOG_21,"...D'accord.
+Merci."
+D_SUBLETTER_START_DIALOG_22,"...
+Je - je sais."
+D_SUBLETTER_START_DIALOG_23,"Deux. Tiens.
+C'est tout ce que j'ai. Reviens pas."
+D_SUBLETTER_START_DIALOG_24,"Il y a des [shake]gens[/shake]. Dans cet immeuble. Ils se réunissent quelque part - je sais pas à quel étage.
+[wave][b]En dessous de nous.[/b][/wave]
+Je sais ce que [i]tu te dis[/i]. Je sais de quoi j'ai l'air."
+D_SUBLETTER_START_DIALOG_25,"Je les ai entendus. Tous les soirs à la même heure. Toujours du même côté. Ils chantent.
+C'est pas désagréable à entendre. C'est justement ça qui rend le truc encore plus flippant."
+D_SUBLETTER_START_DIALOG_26,"Je - j'ai rien. La dernière chose que je possède, c'est un sachet de [b]Krazy Kraunchy Nutz[/b]. C'est vraiment tout ce qui me reste à manger."
+D_SUBLETTER_START_DIALOG_27,"Ils chantent un truc sur l'[i]ascension[/i]. Il paraît... que le type du 24 a un rapport avec ça.
+Je t'ai rien dit. OK."
+D_SUBLETTER_START_DIALOG_28,"J'ai pas - Écoute. C'était tout ce que j'avais.
+Je te jure."
+D_SUBLETTER_START_DIALOG_29,[i]À peine.[/i]
+D_SUBLETTER_START_DIALOG_3,Hé. Salut.
+D_SUBLETTER_START_DIALOG_30,"Je t'ai donné tout ce que j'avais.
+Physiquement et émotionnellement."
+D_SUBLETTER_START_DIALOG_31,"Tu disais que t'étais de la gérance.
+C'est pire."
+D_SUBLETTER_START_DIALOG_32,"OK.
+Désolé. Je croyais que t'étais - laisse tomber. Quoi."
+D_SUBLETTER_START_DIALOG_33,"Ouais. Non. C'est juste -
+Rien de spécial ici. Tout va bien, [i]Monsieur de la Gérance[/i]."
+D_SUBLETTER_START_DIALOG_34,Putain. Encore toi.
+D_SUBLETTER_START_DIALOG_35,"Bon. OK.
+Merci."
+D_SUBLETTER_START_DIALOG_36,"Remarque.
+[i]Personne[/i] n'est censé vivre ici."
+D_SUBLETTER_START_DIALOG_37,"Oh. Oh. Maintenant, t'as des scrupules ? Non."
+D_SUBLETTER_START_DIALOG_38,Plus dangereux que de mourir de faim ? Je - j'en sais rien.
+D_SUBLETTER_START_DIALOG_4,On dirait qu'il s'est coupé les cheveux lui-même avec des ciseaux émoussés. Dans le noir.
+D_SUBLETTER_START_DIALOG_5,Son regard te traverse et fixe la cage d'escalier. Ce n'est pas toi qui l'inquiètes.
+D_SUBLETTER_START_DIALOG_6,"Ouais - salut. Désolé. J'étais-
+Il s'est passé quoi."
+D_SUBLETTER_START_DIALOG_7,"Sa main gauche tremble, il essaie de le cacher."
+D_SUBLETTER_START_DIALOG_8,"Il fait sombre, là-dedans. Une odeur chimique flotte dans l'air et tente de se cacher sous celle du moisi. Du chlore ?"
+D_SUBLETTER_START_DIALOG_9,"Bon. OK.
+Fais gaffe à toi."
+D_SUBLETTER_START_OPT_10_1,Je suis quand même obligé de les prévenir.
+D_SUBLETTER_START_OPT_10_2,"Ouais, désolé. Bonne journée."
+D_SUBLETTER_START_OPT_11_1,Du fric. J'ai besoin de thunes.
+D_SUBLETTER_START_OPT_11_2,T'as entendu des trucs intéressants ?
+D_SUBLETTER_START_OPT_11_3,Des médocs. J'ai un mal de chien au pied !
+D_SUBLETTER_START_OPT_12_1,Je veux que tu me parles des voisins.
+D_SUBLETTER_START_OPT_12_2,Aboule le fric ou je te balance.
+D_SUBLETTER_START_OPT_12_3,Je veux encore du fric !
+D_SUBLETTER_START_OPT_12_4,Je vérifie juste que t'es encore en vie là-dedans.
+D_SUBLETTER_START_OPT_13_1,T'es pas censé vivre ici.
+D_SUBLETTER_START_OPT_13_2,[L'observer]
+D_SUBLETTER_START_OPT_13_3,Laisse tomber.
+D_SUBLETTER_START_OPT_14_1,"Ouais, je les prends."
+D_SUBLETTER_START_OPT_14_2,Tu peux les garder.
+D_SUBLETTER_START_OPT_14_3,Tu devrais pas manger ça. C'est dangereux.
+D_SUBLETTER_START_OPT_1_1,"Écoute, on a reçu une plainte concernant cet étage."
+D_SUBLETTER_START_OPT_1_2,"Je suis juste un voisin. Ça va, là-dedans ?"
+D_SUBLETTER_START_OPT_1_3,Je suis de la gérance de l'immeuble.
+D_SUBLETTER_START_OPT_1_4,[L'observer]
+D_SUBLETTER_START_OPT_1_5,Laisse tomber.
+D_SUBLETTER_START_OPT_2_1,[Regarder : cheveux]
+D_SUBLETTER_START_OPT_2_2,[Regarder : yeux]
+D_SUBLETTER_START_OPT_2_3,[Regarder : mains]
+D_SUBLETTER_START_OPT_2_4,[Regarder : derrière lui]
+D_SUBLETTER_START_OPT_2_5,J'en ai assez vu.
+D_SUBLETTER_START_OPT_3_1,Je viens d'être embauché.
+D_SUBLETTER_START_OPT_3_2,On a reçu une plainte concernant cet étage.
+D_SUBLETTER_START_OPT_3_3,Je n'ai pas à me justifier devant toi.
+D_SUBLETTER_START_OPT_4_1,T'as l'air nerveux.
+D_SUBLETTER_START_OPT_4_2,Tu vis ici depuis combien de temps ?
+D_SUBLETTER_START_OPT_5_1,"Ah, OK. Ça a l'air tout à fait normal."
+D_SUBLETTER_START_OPT_5_2,[Ne rien dire]
+D_SUBLETTER_START_OPT_6_1,"OK, très bien."
+D_SUBLETTER_START_OPT_6_2,[Juste le fixer]
+D_SUBLETTER_START_OPT_7_1,Bon. OK !
+D_SUBLETTER_START_OPT_7_2,[Cligner lentement des yeux sans rien dire]
+D_SUBLETTER_START_OPT_8_1,"Donc le nom sur le bail, c'est pas le tien."
+D_SUBLETTER_START_OPT_8_2,Ça intéresserait beaucoup la gérance.
+D_SUBLETTER_START_OPT_8_3,Je bouge pas d'ici.
+D_SUBLETTER_START_OPT_8_4,J'ai rien entendu. À plus.
+D_SUBLETTER_START_OPT_8_5,"En vrai, je suis pas de la gérance."
+D_SUBLETTER_START_OPT_9_1,On a reçu une plainte concernant cet étage.
+D_SUBLETTER_START_OPT_9_2,"Rien, je voulais juste vérifier que tout allait bien."

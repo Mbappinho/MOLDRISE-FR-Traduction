@@ -1,0 +1,78 @@
+keys,fr
+D_CHEF_START_DIALOG_1,Bienvenue dans ma vie.
+D_CHEF_START_DIALOG_10,"Un cuisinier ? C'est comme traiter un artiste de peintre en bâtiment. L'expérimentation, c'est ma passion. Cuisiner ce que personne n'a jamais osé cuisiner !
+Il y a tant de goûts à découvrir. Le fromage moisi. Les arômes intenses des fruits pourris. Les différents stades de décomposition offrent des saveurs que la plupart des gens ne connaîtront jamais !"
+D_CHEF_START_DIALOG_11,Je vois. J'ai affaire à un sauvage. Vos papilles n'ont jamais été chatouillées comme il faut. Vous adorez sûrement les coquillettes au fromage et les plats au micro-ondes.
+D_CHEF_START_DIALOG_12,"Serait-ce une étincelle dans vos yeux ? Oui ! [b]OUI ![/b] La voilà ! C'est la première étape ! Bon, je vais vous apprendre [b]UN[/b] secret."
+D_CHEF_START_DIALOG_13,"Cette vue embellirait n'importe quel pique-nique, c'est sûr. Mais je ne vois pas comment je pourrais vous aider."
+D_CHEF_START_DIALOG_14,"Je ne suis pas médecin. Mais Betty pourrait peut-être vous aider ? C'est une infirmière de nuit, elle habite au 18e étage, juste au-dessus de chez moi !
+Ses horaires de sommeil sont complètement décalés, mais vous arriverez peut-être à la croiser."
+D_CHEF_START_DIALOG_15,Ça dépend de mon humeur. Mon palais est d'un raffinement exquis. Ce n'est pas une question facile...
+D_CHEF_START_DIALOG_16,Il réfléchit très fort. Tu vois son front se creuser de rides profondes.
+D_CHEF_START_DIALOG_17,"Ha ! Je sais ! Tout le monde a son plat réconfort.
+[font_size=50]Le mien, c'est la [wave]pizza hawaïenne[/wave] ![/font_size]"
+D_CHEF_START_DIALOG_18,Chacun ses goûts ! Ne me jetez pas la pierre !
+D_CHEF_START_DIALOG_19,"Oh, ça va. Ce n'est pas moi qui l'ai inventée !"
+D_CHEF_START_DIALOG_2,"Ça, ce n'est pas de la nourriture ! C'est une abomination ! J'étais comme vous, à manger des cochonneries bon marché à longueur de journée."
+D_CHEF_START_DIALOG_20,Ne m'en voulez pas d'avoir des papilles d'exception !
+D_CHEF_START_DIALOG_21,"« Chef », c'est bien peu dire, vu la magie que je crée !"
+D_CHEF_START_DIALOG_22,"Rien du tout. Les goûts et les couleurs, mon ami."
+D_CHEF_START_DIALOG_23,"Pour créer de vrais chefs-d'œuvre, retenez une leçon essentielle : il faut comprendre le goût de chaque ingrédient de base."
+D_CHEF_START_DIALOG_24,Mais certains ingrédients peuvent être dangereux. Manger des aliments moisis peut même être mortel. Il existe une astuce toute simple pour en manger sans risque.
+D_CHEF_START_DIALOG_25,"[quest]Buvez un Roca Cola JUSTE AVANT de manger des aliments moisis[/quest]. Les acides de la boisson neutralisent les moisissures et les tiennent à distance.
+
+Une fois, j'ai mangé une [quest]part de pizza moisie[/quest] et elle m'a [quest]fait voir dans le noir[/quest] pendant un moment !"
+D_CHEF_START_DIALOG_26,Quel sarcasme ! Alors que je vous ai peut-être sauvé la vie.
+D_CHEF_START_DIALOG_27,C'est [b]vous[/b] qui passez à côté des joies de la vie !
+D_CHEF_START_DIALOG_28,"Encore une chose.
+Si jamais vous tombez sur des ingrédients ou des aliments spéciaux, je vous les rachèterai à un prix honnête."
+D_CHEF_START_DIALOG_29,"Bien sûr. Mais je ne suis pas les Restos du Cœur. J'ai besoin de mes ingrédients pour mes créations. [quest]Par contre, on peut faire affaire[/quest] !"
+D_CHEF_START_DIALOG_3,"Mais il y a environ six ans, j'ai pris une décision : devenir le chef le plus célèbre du monde ! J'y travaille dur, tous les jours.
+[b]Appelez-moi Chef Bronson ![/b]"
+D_CHEF_START_DIALOG_30,"Une prochaine fois, peut-être !"
+D_CHEF_START_DIALOG_31,Monsieur a un petit creux !
+D_CHEF_START_DIALOG_32,Cette odeur ! Délicieux !
+D_CHEF_START_DIALOG_33,[font_size=90][b][shake]MARIO ! NON !!![/shake][/b][/font_size]
+D_CHEF_START_DIALOG_34,Vous revoilà ! Vous avez l'air d'avoir faim !
+D_CHEF_START_DIALOG_35,"Ahhh, oui ! Les grands esprits se rencontrent ! Mais que ça reste entre nous. Il y a une brute qui rôde dans cette cage d'escalier et qui réagit très violemment à ce sujet."
+D_CHEF_START_DIALOG_4,Je ne voulais pas dire ça au pied de la lettre.
+D_CHEF_START_DIALOG_5,De nouvelles expériences culinaires pourraient peut-être vous remettre d'aplomb !
+D_CHEF_START_DIALOG_6,"Yo, quoi de neuf ? Vous avez l'air d'avoir faim !"
+D_CHEF_START_DIALOG_7,"[shake]Meeeeeerde.[/shake] J'avais complètement oublié, j'étais tellement concentré sur ma nouvelle recette.
+J'espère qu'il n'a pas déjà appelé [shake]Mario[/shake].
+Vous pouvez lui apporter ma dernière création ? Je l'ai baptisée la [i]Tartelette des Spores Dorées[/i], je suis sûr qu'il va l'adorer ! Surtout, ne perdez pas de temps !"
+D_CHEF_START_DIALOG_8,"Merci mille fois ! J'espère juste qu'il n'est pas trop tard.
+Filez, maintenant, s'il vous plaît !"
+D_CHEF_START_DIALOG_9,"[shake][b]N'y. Pensez. Même. Pas.[/b][/shake]
+C'est une formule spéciale pour Sean, et pour personne d'autre. Elle peut avoir des conséquences imprévisibles."
+D_CHEF_START_OPT_10_1,"OK, j'espère que j'arriverai à suivre."
+D_CHEF_START_OPT_11_1,C'est... intéressant. D'autres conseils qui vont changer ma vie ?
+D_CHEF_START_OPT_12_1,Vous me croyez assez bête pour manger des trucs moisis ?
+D_CHEF_START_OPT_12_2,Merci... je suppose ?
+D_CHEF_START_OPT_13_1,"Bon, merci, mais ça ira."
+D_CHEF_START_OPT_14_1,COMMENT PEUT-ON DÉTESTER L'ANANAS SUR LA PIZZA ?
+D_CHEF_START_OPT_14_2,"D'accord, merci de me prévenir."
+D_CHEF_START_OPT_1_1,"Aujourd'hui, c'est violent ! Je pourrais manger toutes les cinq minutes !"
+D_CHEF_START_OPT_1_2,"Ça va, je viens de manger un Snackers Bar !"
+D_CHEF_START_OPT_2_1,Chef Bronson.
+D_CHEF_START_OPT_3_1,"Oh, pardon. J'ai vraiment trop la dalle !"
+D_CHEF_START_OPT_4_1,"Sean Goldman, l'avocat du dessus, m'a demandé de passer prendre quelque chose pour lui."
+D_CHEF_START_OPT_4_2,Vous êtes cuisinier ? Vous avez des recettes à partager ?
+D_CHEF_START_OPT_4_3,Faisons affaire !
+D_CHEF_START_OPT_4_4,Vous avez à manger ?
+D_CHEF_START_OPT_4_5,"C'est quoi, votre plat préféré ?"
+D_CHEF_START_OPT_4_6,"Mon pied, c'est un cauchemar ! Vous pouvez m'aider ?"
+D_CHEF_START_OPT_4_7,Il faut que j'aille sur le toit !
+D_CHEF_START_OPT_4_8,Je dois y aller !
+D_CHEF_START_OPT_5_1,Pas de souci.
+D_CHEF_START_OPT_5_2,Je peux goûter ?
+D_CHEF_START_OPT_6_1,"OK, OK. Je la lui apporte tout de suite."
+D_CHEF_START_OPT_7_1,"Bref, un cuistot qui se la pète ?"
+D_CHEF_START_OPT_7_2,C'est génial ! Vous pouvez m'apprendre vos secrets ?
+D_CHEF_START_OPT_8_1,OK. Alors montrez-moi quelque chose de vraiment incroyable.
+D_CHEF_START_OPT_9_1,Espèce de chien galeux !
+D_CHEF_START_OPT_9_2,"C'est quoi ce bordel, putain !?"
+D_CHEF_START_OPT_9_3,Comment osez-vous !?
+D_CHEF_START_OPT_9_4,Et vous vous dites chef ???
+D_CHEF_START_OPT_9_5,Mais qu'est-ce qui CLOCHE chez vous ?!
+D_CHEF_START_OPT_9_6,"Hm. Délicieux ! Moi aussi, j'ADORE la pizza hawaïenne !"
