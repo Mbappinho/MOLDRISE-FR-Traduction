@@ -15,7 +15,7 @@ bm = importlib.util.module_from_spec(spec); spec.loader.exec_module(bm)
 
 PH = re.compile(r"%[-+0-9.]*[sdif]|\{[a-zA-Z_0-9]*\}")
 TAG = re.compile(r"\[/?([a-z_]+)[^\]]*\]")
-VERSION = "1.0"
+VERSION = "1.0.1"
 
 
 def tokens(s):
